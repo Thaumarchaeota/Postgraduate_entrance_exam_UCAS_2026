@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 509.67 148.96">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-family: SimHei, SimHei;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-7, .cls-9, .cls-10 {
+        font-size: 8px;
+      }
+
+      .cls-1, .cls-11 {
+        fill: #808285;
+      }
+
+      .cls-3, .cls-4, .cls-12, .cls-13, .cls-10 {
+        fill: #be1e2d;
+      }
+
+      .cls-3, .cls-5 {
+        font-size: 4px;
+      }
+
+      .cls-14 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-14, .cls-15, .cls-12, .cls-16, .cls-10 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-17 {
+        fill: #231f20;
+      }
+
+      .cls-15, .cls-18, .cls-5, .cls-7 {
+        fill: #009444;
+      }
+
+      .cls-15, .cls-12 {
+        font-size: 6px;
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-19, .cls-20, .cls-22 {
+        stroke: #808285;
+      }
+
+      .cls-25 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-20 {
+        stroke-dasharray: 5.94 5.94;
+      }
+
+      .cls-26, .cls-8 {
+        font-size: 12px;
+      }
+
+      .cls-21 {
+        stroke: #be1e2d;
+      }
+
+      .cls-21, .cls-23 {
+        stroke-width: .75px;
+      }
+
+      .cls-22 {
+        stroke-dasharray: 6 6;
+      }
+
+      .cls-23 {
+        stroke: #009444;
+      }
+
+      .cls-24 {
+        stroke: #231f20;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="cls-19" x1="91.12" y1="47.85" x2="91.12" y2="50.85"/>
+    <line class="cls-20" x1="91.12" y1="56.8" x2="91.12" y2="137.02"/>
+    <line class="cls-19" x1="91.12" y1="139.99" x2="91.12" y2="142.99"/>
+  </g>
+  <g>
+    <line class="cls-19" x1="95.11" y1="47.85" x2="95.11" y2="50.85"/>
+    <line class="cls-20" x1="95.11" y1="56.8" x2="95.11" y2="137.02"/>
+    <line class="cls-19" x1="95.11" y1="139.99" x2="95.11" y2="142.99"/>
+  </g>
+  <text class="cls-26" transform="translate(137.83 84.7)"><tspan class="cls-6" x="0" y="0">乙酰</tspan><tspan class="cls-16" x="24" y="0">-Co</tspan><tspan class="cls-14" x="43.34" y="0">A</tspan></text>
+  <text class="cls-26" transform="translate(0 84.7)"><tspan class="cls-6" x="0" y="0">乙酰</tspan><tspan class="cls-16" x="24" y="0">-Co</tspan><tspan class="cls-14" x="43.34" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(160 27.39)"><tspan class="cls-6" x="0" y="0">乙酰</tspan><tspan class="cls-16" x="16" y="0">-CoA</tspan><tspan class="cls-6"><tspan x="5.11" y="8">羧化酶</tspan></tspan></text>
+  <text class="cls-10" transform="translate(59.67 30.12)"><tspan x="0" y="0">AM</tspan><tspan class="cls-25" x="12" y="0">P</tspan></text>
+  <text class="cls-12" transform="translate(143.05 20.79)"><tspan x="0" y="0">+p</tspan></text>
+  <text class="cls-15" transform="translate(199.75 22.39)"><tspan x="0" y="0">-p</tspan></text>
+  <text class="cls-5" transform="translate(183.5 13.62)"><tspan x="0" y="0">别构</tspan></text>
+  <text class="cls-3" transform="translate(162.75 13.62)"><tspan x="0" y="0">反馈</tspan></text>
+  <text class="cls-10" transform="translate(105.34 21.26)"><tspan x="0" y="0">AMPK</tspan></text>
+  <text class="cls-2" transform="translate(268.26 35.39)"><tspan x="0" y="0">转酰酶</tspan></text>
+  <text class="cls-4" transform="translate(143.71 7.44)"><tspan x="0" y="0">软脂酸</tspan></text>
+  <text class="cls-4" transform="translate(47.68 9.81)"><tspan x="0" y="0">胰高血糖素</tspan><tspan x="4" y="8">肾上腺素</tspan></text>
+  <text class="cls-7" transform="translate(254.8 14.2)"><tspan x="0" y="0">胰岛素</tspan></text>
+  <text class="cls-7" transform="translate(212.76 22.39)"><tspan x="0" y="0">磷酸酶</tspan></text>
+  <text class="cls-7" transform="translate(191.24 6.88)"><tspan x="0" y="0">柠檬酸</tspan></text>
+  <text class="cls-2" transform="translate(218.05 76.88)"><tspan x="0" y="0">转酰酶</tspan></text>
+  <text class="cls-9" transform="translate(257.77 139.71)"><tspan class="cls-16" x="0" y="0">β-</tspan><tspan class="cls-6" x="7.55" y="0">酮酰</tspan><tspan class="cls-16" x="23.55" y="0">-ACP-</tspan><tspan class="cls-6"><tspan x="10.66" y="8">还原酶</tspan></tspan></text>
+  <text class="cls-9" transform="translate(362.28 126.71)"><tspan class="cls-16" x="0" y="0">β-</tspan><tspan class="cls-6" x="7.55" y="0">羟酰</tspan><tspan class="cls-16" x="23.55" y="0">-ACP-</tspan><tspan class="cls-6"><tspan x="10.66" y="8">脱水酶</tspan></tspan></text>
+  <text class="cls-9" transform="translate(377.38 82.78)"><tspan class="cls-6" x="0" y="0">烯酰</tspan><tspan class="cls-16" x="16" y="0">-ACP-</tspan><tspan class="cls-6"><tspan x="6.89" y="8">还原酶</tspan></tspan></text>
+  <text class="cls-9" transform="translate(368.84 27.39)"><tspan class="cls-6" x="0" y="0">软脂酰</tspan><tspan class="cls-16" x="24" y="0">-ACP-</tspan><tspan class="cls-6"><tspan x="10.89" y="8">硫酯酶</tspan></tspan></text>
+  <text class="cls-9" transform="translate(225.59 103.21)"><tspan class="cls-16" x="0" y="0">β-</tspan><tspan class="cls-6" x="7.55" y="0">酮酰</tspan><tspan class="cls-16" x="23.55" y="0">-ACP-</tspan><tspan class="cls-6"><tspan x="14.66" y="8">合酶</tspan></tspan></text>
+  <text class="cls-2" transform="translate(69.15 75.36)"><tspan x="0" y="0">三羧酸转运体系</tspan></text>
+  <text class="cls-1" transform="translate(62.24 136.43)"><tspan x="0" y="0">线粒体</tspan></text>
+  <text class="cls-1" transform="translate(96.87 136.43)"><tspan x="0" y="0">胞质溶胶</tspan></text>
+  <text class="cls-8" transform="translate(104.3 43.93)"><tspan x="0" y="0">碳酸氢盐</tspan></text>
+  <text class="cls-26" transform="translate(213 39.6)"><tspan class="cls-6"><tspan x="0" y="0">丙二酸</tspan></tspan><tspan class="cls-6" x="-7.67" y="12">单酰</tspan><tspan class="cls-16" x="16.33" y="12">-Co</tspan><tspan class="cls-14" x="35.67" y="12">A</tspan></text>
+  <text class="cls-8" transform="translate(292.21 87.82)"><tspan x="0" y="0">脂肪酸合酶</tspan></text>
+  <text class="cls-8" transform="translate(451.67 42.93)"><tspan x="0" y="0">软脂酸</tspan></text>
+  <text class="cls-1" transform="translate(429.67 85.83)"><tspan x="0" y="0">线粒体或光面内质网中</tspan><tspan x="16" y="9.6">延长及去饱和</tspan></text>
+  <g>
+    <path class="cls-24" d="M163.5,71.86v-26.26c0-3.31,2.69-6,6-6h29.38"/>
+    <polygon class="cls-17" points="202.41 39.6 197.44 41.63 198.62 39.6 197.44 37.57 202.41 39.6"/>
+  </g>
+  <g>
+    <line class="cls-24" x1="55.44" y1="80.3" x2="132.14" y2="80.3"/>
+    <polygon class="cls-17" points="135.67 80.3 130.69 82.33 131.87 80.3 130.69 78.26 135.67 80.3"/>
+  </g>
+  <path class="cls-24" d="M192.04,80.3h71.43c4.14,0,7.47,3.39,7.41,7.52"/>
+  <line class="cls-24" x1="153.68" y1="39.6" x2="181.99" y2="39.6"/>
+  <g>
+    <path class="cls-24" d="M338.85,133.28c-5.23,1.8-10.85,2.77-16.69,2.77-15.95,0-30.21-7.27-39.62-18.69"/>
+    <polygon class="cls-17" points="342.14 132.02 336.77 131.82 338.58 133.32 338.17 135.64 342.14 132.02"/>
+  </g>
+  <g>
+    <path class="cls-24" d="M370.08,103.17c-5.01,12.99-15.15,23.43-27.94,28.84"/>
+    <polygon class="cls-17" points="371.24 99.84 367.65 103.84 369.96 103.41 371.48 105.2 371.24 99.84"/>
+  </g>
+  <g>
+    <path class="cls-24" d="M367.51,60.61c3.83,7.19,5.99,15.39,5.99,24.09,0,5.27-.79,10.35-2.27,15.13"/>
+    <polygon class="cls-17" points="365.75 57.55 366.43 62.88 367.62 60.85 369.97 60.88 365.75 57.55"/>
+  </g>
+  <g>
+    <path class="cls-24" d="M280.38,114.57c-6.03-8.41-9.57-18.73-9.57-29.87,0-28.36,22.99-51.35,51.35-51.35,18.39,0,34.52,9.67,43.59,24.2"/>
+    <polygon class="cls-17" points="282.53 117.37 281.15 112.17 280.24 114.34 277.91 114.63 282.53 117.37"/>
+  </g>
+  <path class="cls-24" d="M255.81,39.6h25.4c4.98,0,7.29,5.92,4.11,9.31"/>
+  <g>
+    <path class="cls-24" d="M442.3,39.6h-79.22c-4.98,0-7.29,5.92-4.11,9.31"/>
+    <polygon class="cls-17" points="445.83 39.6 440.85 37.57 442.03 39.6 440.85 41.63 445.83 39.6"/>
+  </g>
+  <g>
+    <line class="cls-22" x1="468.43" y1="46.95" x2="468.43" y2="71.83"/>
+    <polygon class="cls-11" points="468.43 75.36 466.4 70.39 468.43 71.57 470.47 70.39 468.43 75.36"/>
+  </g>
+  <g>
+    <line class="cls-21" x1="78.52" y1="27.41" x2="101.44" y2="20.74"/>
+    <polygon class="cls-13" points="101.44 22.68 104.03 19.98 100.39 19.09 101.44 22.68"/>
+  </g>
+  <g>
+    <line class="cls-21" x1="129.96" y1="19.48" x2="157.71" y2="25.22"/>
+    <rect class="cls-13" x="155.27" y="24.84" width="4.87" height=".75" transform="translate(101.05 174.55) rotate(-78.31)"/>
+  </g>
+  <g>
+    <line class="cls-21" x1="156.71" y1="8.88" x2="165.27" y2="18.11"/>
+    <rect class="cls-13" x="162.83" y="17.74" width="4.87" height=".75" transform="translate(31.73 117.16) rotate(-42.82)"/>
+  </g>
+  <g>
+    <line class="cls-23" x1="198.23" y1="8.48" x2="187.83" y2="18.09"/>
+    <polygon class="cls-18" points="186.97 16.35 185.86 19.92 189.51 19.1 186.97 16.35"/>
+  </g>
+  <g>
+    <line class="cls-23" x1="211.59" y1="22.39" x2="198.71" y2="26.01"/>
+    <polygon class="cls-18" points="198.73 24.06 196.12 26.73 199.74 27.66 198.73 24.06"/>
+  </g>
+  <g>
+    <line class="cls-23" x1="253.25" y1="12.66" x2="240.37" y2="16.28"/>
+    <polygon class="cls-18" points="240.39 14.34 237.78 17.01 241.4 17.94 240.39 14.34"/>
+  </g>
+  <g>
+    <line class="cls-21" x1="85.66" y1="12.6" x2="102.82" y2="16.1"/>
+    <polygon class="cls-13" points="101.91 17.82 105.46 16.63 102.66 14.16 101.91 17.82"/>
+  </g>
+</svg>

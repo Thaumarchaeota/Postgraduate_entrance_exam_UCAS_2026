@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 479.54 138.04">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-family: SimHei, SimHei;
+      }
+
+      .cls-1, .cls-3, .cls-7, .cls-8, .cls-6 {
+        font-size: 12px;
+      }
+
+      .cls-1, .cls-4, .cls-9, .cls-8 {
+        fill: #009444;
+      }
+
+      .cls-2, .cls-4, .cls-10, .cls-11, .cls-9 {
+        font-size: 10px;
+      }
+
+      .cls-2, .cls-11 {
+        fill: #f26522;
+      }
+
+      .cls-3, .cls-12 {
+        fill: #808285;
+      }
+
+      .cls-13 {
+        stroke: #009444;
+      }
+
+      .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-14 {
+        stroke-dasharray: 5.7 5.7;
+      }
+
+      .cls-14, .cls-15, .cls-17 {
+        stroke: #808285;
+      }
+
+      .cls-19 {
+        fill: #231f20;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21, .cls-10, .cls-11, .cls-9 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-16 {
+        stroke: #f26522;
+      }
+
+      .cls-17 {
+        stroke-dasharray: 5.05 5.05;
+      }
+
+      .cls-18 {
+        stroke: #231f20;
+      }
+
+      .cls-22 {
+        letter-spacing: -.07em;
+      }
+    </style>
+  </defs>
+  <text class="cls-6" transform="translate(.08 10.31)"><tspan x="0" y="0">软脂酸</tspan></text>
+  <text class="cls-10" transform="translate(5.71 21.16)"><tspan x="0" y="0">[C16]</tspan></text>
+  <text class="cls-6" transform="translate(.26 59.96)"><tspan x="0" y="0">硬脂酸</tspan></text>
+  <text class="cls-10" transform="translate(5.79 70.81)"><tspan x="0" y="0">[C18]</tspan></text>
+  <text class="cls-3" transform="translate(0 114.64)"><tspan x="0" y="0">高饱和</tspan><tspan x="0" y="12">脂肪酸</tspan></text>
+  <text class="cls-6" transform="translate(80.66 59.96)"><tspan x="0" y="0">油酸</tspan></text>
+  <text class="cls-10" transform="translate(72.56 70.4)"><tspan x="0" y="0">[C18, Δ</tspan></text>
+  <text class="cls-10" transform="translate(106.46 67.07) scale(.58)"><tspan x="0" y="0">9</tspan></text>
+  <text class="cls-10" transform="translate(109.7 70.4)"><tspan x="0" y="0">]</tspan></text>
+  <text class="cls-1" transform="translate(154.16 59.93) rotate(.1)"><tspan x="0" y="0">亚油酸</tspan></text>
+  <text class="cls-9" transform="translate(147.99 70.36) rotate(.1)"><tspan x="0" y="0">[C18, Δ</tspan></text>
+  <text class="cls-9" transform="translate(181.9 67.09) rotate(.1) scale(.58)"><tspan x="0" y="0">9,12</tspan></text>
+  <text class="cls-9" transform="translate(193.24 70.44) rotate(.1)"><tspan x="0" y="0">]</tspan></text>
+  <text class="cls-11" transform="translate(82.35 103.52) rotate(.1)"><tspan x="0" y="0">Δ</tspan></text>
+  <text class="cls-11" transform="translate(89.57 100.2) rotate(.1) scale(.58)"><tspan x="0" y="0">9 </tspan></text>
+  <text class="cls-2" transform="translate(94.43 103.54) rotate(.1)"><tspan x="0" y="0">后引入双键</tspan><tspan x="-6.04" y="12">动物无此酶</tspan></text>
+  <text class="cls-7" transform="translate(237.01 42.72) rotate(.1)"><tspan class="cls-21" x="0" y="0">α-</tspan><tspan class="cls-5" x="11.33" y="0">亚麻酸</tspan></text>
+  <text class="cls-10" transform="translate(232.45 53.15) rotate(.1)"><tspan x="0" y="0">[C18, Δ</tspan></text>
+  <text class="cls-10" transform="translate(266.35 49.88) rotate(.1) scale(.58)"><tspan x="0" y="0">9,12,15</tspan></text>
+  <text class="cls-10" transform="translate(285.8 53.24) rotate(.1)"><tspan x="0" y="0">]</tspan></text>
+  <text class="cls-8" transform="translate(237.01 74.72) rotate(.1)"><tspan class="cls-21" x="0" y="0">α-</tspan><tspan class="cls-5" x="11.33" y="0">亚麻酸</tspan></text>
+  <text class="cls-9" transform="translate(234.07 85.15) rotate(.1)"><tspan x="0" y="0">[C18, Δ</tspan></text>
+  <text class="cls-9" transform="translate(267.97 81.88) rotate(.1) scale(.58)"><tspan x="0" y="0">6,9,12</tspan></text>
+  <text class="cls-9" transform="translate(284.18 85.24) rotate(.1)"><tspan x="0" y="0">]</tspan></text>
+  <text class="cls-6" transform="translate(224.67 122.67) rotate(.1)"><tspan x="0" y="0">二十碳三烯酸</tspan></text>
+  <text class="cls-3" transform="translate(322.62 42.71) rotate(.1)"><tspan x="0" y="0">其他不饱和</tspan><tspan x="12" y="12">脂肪酸</tspan></text>
+  <text class="cls-10" transform="translate(232.66 133.13) rotate(.1)"><tspan x="0" y="0">[C20, Δ</tspan></text>
+  <text class="cls-10" transform="translate(266.57 129.85) rotate(.1) scale(.58)"><tspan x="0" y="0">8,</tspan><tspan class="cls-22" x="8.34" y="0">1</tspan><tspan x="13.16" y="0">1,14</tspan></text>
+  <text class="cls-10" transform="translate(285.58 133.22) rotate(.1)"><tspan x="0" y="0">]</tspan></text>
+  <text class="cls-6" transform="translate(331.64 122.68) rotate(.1)"><tspan x="0" y="0">花生四烯酸</tspan></text>
+  <text class="cls-3" transform="translate(419.52 99.41) rotate(.1)"><tspan x="0" y="0">类二十烷酸</tspan></text>
+  <text class="cls-10" transform="translate(331.2 133.12) rotate(.1)"><tspan x="0" y="0">[C20, Δ</tspan></text>
+  <text class="cls-10" transform="translate(365.11 129.85) rotate(.1) scale(.58)"><tspan x="0" y="0">5,8,</tspan><tspan class="cls-22" x="16.68" y="0">1</tspan><tspan class="cls-20" x="21.5" y="0">1,14</tspan></text>
+  <text class="cls-10" transform="translate(388.99 133.22) rotate(.1)"><tspan x="0" y="0">]</tspan></text>
+  <g>
+    <line class="cls-18" x1="42.9" y1="61.28" x2="65.05" y2="61.28"/>
+    <polygon class="cls-19" points="68.58 61.28 63.6 63.31 64.78 61.28 63.6 59.24 68.58 61.28"/>
+  </g>
+  <text class="cls-6" transform="translate(69.78 10.31)"><tspan x="0" y="0">棕榈油酸</tspan></text>
+  <text class="cls-10" transform="translate(73.68 20.75)"><tspan x="0" y="0">[C16, Δ</tspan></text>
+  <text class="cls-10" transform="translate(107.58 17.42) scale(.58)"><tspan x="0" y="0">9</tspan></text>
+  <text class="cls-10" transform="translate(110.82 20.75)"><tspan x="0" y="0">]</tspan></text>
+  <g>
+    <line class="cls-18" x1="42.9" y1="11.62" x2="65.05" y2="11.62"/>
+    <polygon class="cls-19" points="68.58 11.62 63.6 13.66 64.78 11.62 63.6 9.59 68.58 11.62"/>
+  </g>
+  <g>
+    <line class="cls-18" x1="118.25" y1="61.28" x2="140.4" y2="61.28"/>
+    <polygon class="cls-19" points="143.93 61.28 138.95 63.31 140.13 61.28 138.95 59.24 143.93 61.28"/>
+  </g>
+  <g>
+    <line class="cls-18" x1="301.78" y1="122.73" x2="323.92" y2="122.73"/>
+    <polygon class="cls-19" points="327.45 122.73 322.48 124.77 323.66 122.73 322.48 120.7 327.45 122.73"/>
+  </g>
+  <g>
+    <line class="cls-15" x1="292.02" y1="42.76" x2="314.16" y2="42.76"/>
+    <polygon class="cls-12" points="317.69 42.76 312.72 44.79 313.9 42.76 312.72 40.73 317.69 42.76"/>
+  </g>
+  <g>
+    <line class="cls-18" x1="18" y1="27.83" x2="18" y2="42.02"/>
+    <polygon class="cls-19" points="18 45.55 15.97 40.57 18 41.75 20.03 40.57 18 45.55"/>
+  </g>
+  <g>
+    <line class="cls-15" x1="18" y1="76.66" x2="18" y2="98.38"/>
+    <polygon class="cls-12" points="18 101.91 15.97 96.94 18 98.12 20.03 96.94 18 101.91"/>
+  </g>
+  <g>
+    <line class="cls-18" x1="200.33" y1="55.23" x2="225.03" y2="45.72"/>
+    <polygon class="cls-19" points="228.33 44.46 224.41 48.14 224.78 45.82 222.95 44.35 228.33 44.46"/>
+  </g>
+  <g>
+    <line class="cls-18" x1="200.33" y1="65.02" x2="225.03" y2="74.52"/>
+    <polygon class="cls-19" points="228.33 75.79 222.95 75.9 224.78 74.43 224.41 72.11 228.33 75.79"/>
+  </g>
+  <g>
+    <line class="cls-18" x1="260.67" y1="91.79" x2="260.67" y2="105.98"/>
+    <polygon class="cls-19" points="260.67 109.51 258.64 104.54 260.67 105.72 262.7 104.54 260.67 109.51"/>
+  </g>
+  <line class="cls-16" x1="112.58" y1="92.24" x2="131.09" y2="67.25"/>
+  <line class="cls-16" x1="137.35" y1="92.53" x2="209.63" y2="74.76"/>
+  <text class="cls-4" transform="translate(161.56 114.02) rotate(.1)"><tspan x="0" y="0">必需氨基酸</tspan></text>
+  <line class="cls-13" x1="182.23" y1="103.57" x2="175.12" y2="76.66"/>
+  <line class="cls-13" x1="200.37" y1="103.57" x2="232.74" y2="89.29"/>
+  <g>
+    <line class="cls-15" x1="395.12" y1="114.06" x2="397.8" y2="112.71"/>
+    <line class="cls-17" x1="402.31" y1="110.44" x2="409.07" y2="107.04"/>
+    <line class="cls-15" x1="411.33" y1="105.9" x2="414.01" y2="104.55"/>
+    <polygon class="cls-12" points="417.16 102.97 413.63 107.02 413.77 104.67 411.81 103.39 417.16 102.97"/>
+  </g>
+  <g>
+    <line class="cls-15" x1="297.16" y1="111.9" x2="300.14" y2="111.54"/>
+    <line class="cls-14" x1="305.8" y1="110.87" x2="404.78" y2="99.06"/>
+    <line class="cls-15" x1="407.61" y1="98.72" x2="410.59" y2="98.36"/>
+    <polygon class="cls-12" points="414.09 97.94 409.39 100.55 410.33 98.39 408.91 96.52 414.09 97.94"/>
+  </g>
+</svg>
