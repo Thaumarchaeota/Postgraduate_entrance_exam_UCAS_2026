@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500.11 909.84">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 6.65px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-2 {
+        font-size: 6.33px;
+      }
+
+      .cls-3 {
+        font-size: 8.93px;
+      }
+
+      .cls-4 {
+        font-size: 8.53px;
+      }
+
+      .cls-5 {
+        font-size: 6.6px;
+      }
+
+      .cls-6 {
+        font-size: 6.63px;
+      }
+
+      .cls-41, .cls-42 {
+        fill: #fff;
+        font-size: 10px;
+      }
+
+      .cls-7 {
+        font-size: 8.66px;
+      }
+
+      .cls-8 {
+        font-size: 8.86px;
+      }
+
+      .cls-9 {
+        font-size: 9.33px;
+      }
+
+      .cls-10 {
+        font-size: 8.6px;
+      }
+
+      .cls-42, .cls-43, .cls-44 {
+        font-family: SimHei, SimHei;
+      }
+
+      .cls-11 {
+        font-size: 7px;
+      }
+
+      .cls-12 {
+        font-size: 6.18px;
+      }
+
+      .cls-13 {
+        font-size: 6.65px;
+      }
+
+      .cls-14, .cls-45, .cls-46, .cls-44 {
+        font-size: 12px;
+      }
+
+      .cls-15 {
+        font-size: 6.55px;
+      }
+
+      .cls-47 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-16 {
+        font-size: 8.87px;
+      }
+
+      .cls-17, .cls-48 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-18 {
+        font-size: 6.69px;
+      }
+
+      .cls-49 {
+        fill: #599c7d;
+      }
+
+      .cls-45 {
+        font-family: HONORSansCN-Medium, 'HONOR Sans CN';
+        font-weight: 500;
+      }
+
+      .cls-50 {
+        fill: #9bd4d0;
+      }
+
+      .cls-51 {
+        fill: #27aae1;
+      }
+
+      .cls-52 {
+        fill: #fbd08f;
+      }
+
+      .cls-19 {
+        font-size: 6.63px;
+      }
+
+      .cls-20 {
+        font-size: 8.58px;
+      }
+
+      .cls-21 {
+        font-size: 8.8px;
+      }
+
+      .cls-53 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-22 {
+        font-size: 9.03px;
+      }
+
+      .cls-23 {
+        font-size: 6.5px;
+      }
+
+      .cls-24 {
+        font-size: 9.88px;
+      }
+
+      .cls-25 {
+        font-size: 8.52px;
+      }
+
+      .cls-27 {
+        font-size: 8.84px;
+      }
+
+      .cls-28 {
+        font-size: 6.39px;
+      }
+
+      .cls-29 {
+        font-size: 6.25px;
+      }
+
+      .cls-54 {
+        fill: #1c75bc;
+      }
+
+      .cls-30 {
+        font-size: 8.43px;
+      }
+
+      .cls-46 {
+        font-family: HONORSansCN-Regular, 'HONOR Sans CN';
+      }
+
+      .cls-31 {
+        font-size: 6.44px;
+      }
+
+      .cls-32 {
+        font-size: 6.77px;
+      }
+
+      .cls-33 {
+        font-size: 8.73px;
+      }
+
+      .cls-34 {
+        font-size: 6.39px;
+      }
+
+      .cls-35 {
+        font-size: 8.26px;
+      }
+
+      .cls-36 {
+        font-size: 8.84px;
+      }
+
+      .cls-37 {
+        font-size: 6.45px;
+      }
+
+      .cls-38 {
+        font-size: 7.41px;
+      }
+
+      .cls-55 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-55, .cls-56 {
+        fill: none;
+      }
+
+      .cls-39 {
+        font-size: 8.34px;
+      }
+
+      .cls-40 {
+        font-size: 8.24px;
+      }
+
+      .cls-56 {
+        stroke: #000;
+        stroke-width: .41px;
+      }
+
+      .cls-57 {
+        fill: #c98787;
+      }
+
+      .cls-58 {
+        fill: #8ad1ab;
+      }
+
+      .cls-59 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-60 {
+        fill: #fbdfb5;
+      }
+    </style>
+  </defs>
+  <rect class="cls-60" x="426.97" y="494.21" width="51.07" height="54.88"/>
+  <rect class="cls-60" x="320.27" y="494.21" width="51.07" height="54.88"/>
+  <rect class="cls-60" x="219.21" y="514.18" width="30.15" height="30.15"/>
+  <rect class="cls-60" x="68.43" y="663.24" width="39.32" height="36.6"/>
+  <rect class="cls-60" x="191.36" y="657.95" width="86.52" height="35.4"/>
+  <rect class="cls-60" x="60.39" y="848.87" width="61.59" height="30.75"/>
+  <rect class="cls-60" x="305.32" y="848.87" width="40.52" height="30.75"/>
+  <polygon class="cls-60" points="475.96 699.84 418.29 699.84 418.29 689.07 433.08 678.32 433.08 657.9 475.96 657.9 475.96 699.84"/>
+  <rect class="cls-60" x="117.82" y="514.18" width="44" height="30.15"/>
+  <rect class="cls-60" x="17.35" y="521.26" width="39.3" height="14.51"/>
+  <rect class="cls-60" x="418.85" y="46.75" width="54.41" height="28.38"/>
+  <rect class="cls-60" x="219.18" y="179.11" width="63.2" height="39.47"/>
+  <polygon class="cls-60" points="329.63 72.02 300.6 72.02 300.6 60.94 322.93 43.73 329.63 43.73 329.63 72.02"/>
+  <rect class="cls-60" x="62.97" y="185.81" width="67.94" height="32.77"/>
+  <rect class="cls-60" x="26.92" y="330.1" width="55.6" height="41.37"/>
+  <rect class="cls-60" x="192.95" y="328.81" width="72.3" height="42.66"/>
+  <rect class="cls-60" x="364.41" y="312.42" width="65.06" height="65.06"/>
+  <rect class="cls-60" x="388.82" y="179.11" width="57.65" height="44.45"/>
+  <rect class="cls-60" x="168.42" y="56.45" width="22.35" height="12.78"/>
+  <text class="cls-14" transform="translate(404.08 574.29)"><tspan x="0" y="0">Glutamine, Gln, Q</tspan></text>
+  <text class="cls-46" transform="translate(428.09 563.5)"><tspan x="0" y="0">谷氨酰胺</tspan></text>
+  <text class="cls-14" transform="translate(292.48 574.29)"><tspan x="0" y="0">Asparagine,</tspan><tspan class="cls-48" x="64.04" y="0"> </tspan><tspan x="66.72" y="0">Asn, N</tspan></text>
+  <text class="cls-46" transform="translate(319.85 563.5)"><tspan x="0" y="0">天冬酰胺</tspan></text>
+  <text class="cls-14" transform="translate(277.57 904.06)"><tspan x="0" y="0">Glutamine, Gln, Q</tspan></text>
+  <text class="cls-46" transform="translate(301.59 893.27)"><tspan x="0" y="0">谷氨酰胺</tspan></text>
+  <text class="cls-14" transform="translate(39.23 903.81)"><tspan x="0" y="0">Asparagine,</tspan><tspan class="cls-48" x="64.04" y="0"> </tspan><tspan x="66.72" y="0">Asn, N</tspan></text>
+  <text class="cls-46" transform="translate(66.59 893.02)"><tspan x="0" y="0">天冬酰胺</tspan></text>
+  <text class="cls-14" transform="translate(0 574.29)"><tspan x="0" y="0">serine, Se</tspan><tspan class="cls-48" x="54.03" y="0">r</tspan><tspan x="57.37" y="0">, S</tspan></text>
+  <text class="cls-46" transform="translate(18.02 563.5)"><tspan x="0" y="0">丝氨酸</tspan></text>
+  <text class="cls-14" transform="translate(92.16 574.29)"><tspan x="0" y="0">threonine,</tspan><tspan class="cls-53" x="53.37" y="0"> </tspan><tspan x="56.5" y="0">Th</tspan><tspan class="cls-48" x="70.5" y="0">r</tspan><tspan x="73.84" y="0">,</tspan><tspan class="cls-53" x="77.17" y="0" xml:space="preserve"> T</tspan></text>
+  <text class="cls-46" transform="translate(117.98 563.5)"><tspan x="0" y="0">苏氨酸</tspan></text>
+  <text class="cls-14" transform="translate(194.75 574.29)"><tspan x="0" y="0">cysteine, Cys, C</tspan></text>
+  <text class="cls-46" transform="translate(214.09 563.5)"><tspan x="0" y="0">半胱氨酸</tspan></text>
+  <text class="cls-14" transform="translate(146.24 103.28)"><tspan x="0" y="0">alanine,</tspan><tspan class="cls-48" x="42.04" y="0"> </tspan><tspan x="44.71" y="0">Ala,</tspan><tspan class="cls-48" x="65.39" y="0" xml:space="preserve"> A</tspan></text>
+  <text class="cls-44" transform="translate(166.28 92.48)"><tspan x="0" y="0">丙氨酸</tspan></text>
+  <text class="cls-14" transform="translate(278.7 103.28)"><tspan x="0" y="0">proline, Pro, </tspan><tspan class="cls-53" x="68.03" y="0">P</tspan></text>
+  <text class="cls-44" transform="translate(298.72 92.48)"><tspan x="0" y="0">脯氨酸</tspan></text>
+  <text class="cls-14" transform="translate(411.48 103.28)"><tspan x="0" y="0">valine, </tspan><tspan class="cls-59" x="38.02" y="0">V</tspan><tspan x="45.14" y="0">al, V</tspan></text>
+  <text class="cls-44" transform="translate(428.06 92.48)"><tspan x="0" y="0">缬氨酸</tspan></text>
+  <text class="cls-14" transform="translate(16.24 103.28)"><tspan x="0" y="0">glycine, Gl</tspan><tspan class="cls-59" x="56.02" y="0">y</tspan><tspan x="61.14" y="0">, G</tspan></text>
+  <text class="cls-44" transform="translate(36.81 92.48)"><tspan x="0" y="0">甘氨酸</tspan></text>
+  <text class="cls-14" transform="translate(45.91 246.57)"><tspan x="0" y="0">methionine, Met, M</tspan></text>
+  <text class="cls-46" transform="translate(72.93 235.78)"><tspan x="0" y="0">甲硫氨酸</tspan></text>
+  <text class="cls-14" transform="translate(216.01 246.57)"><tspan x="0" y="0">leucine, Leu, </tspan><tspan class="cls-47" x="71.38" y="0">L</tspan></text>
+  <text class="cls-46" transform="translate(237.04 235.78)"><tspan x="0" y="0">亮氨酸</tspan></text>
+  <text class="cls-14" transform="translate(376.29 246.57)"><tspan x="0" y="0">isoleucine, Ile, I</tspan></text>
+  <text class="cls-46" transform="translate(393.64 235.78)"><tspan x="0" y="0">异亮氨酸</tspan></text>
+  <text class="cls-14" transform="translate(22.74 402.79)"><tspan x="0" y="0">phenylalanine, Phe, F</tspan></text>
+  <text class="cls-46" transform="translate(56.78 392)"><tspan x="0" y="0">苯丙氨酸</tspan></text>
+  <text class="cls-14" transform="translate(216.11 402.79)"><tspan class="cls-48" x="0" y="0">T</tspan><tspan x="6.67" y="0">yrosine,</tspan><tspan class="cls-53" x="48.69" y="0"> </tspan><tspan class="cls-48" x="51.81" y="0">T</tspan><tspan x="58.49" y="0">y</tspan><tspan class="cls-48" x="64.49" y="0">r</tspan><tspan x="67.83" y="0">,</tspan><tspan class="cls-53" x="71.16" y="0" xml:space="preserve"> Y</tspan></text>
+  <text class="cls-46" transform="translate(239.25 392)"><tspan x="0" y="0">酪氨酸</tspan></text>
+  <text class="cls-14" transform="translate(374.01 402.79)"><tspan x="0" y="0">tryptophan,</tspan><tspan class="cls-53" x="60.04" y="0"> </tspan><tspan class="cls-47" x="63.16" y="0">T</tspan><tspan x="70.05" y="0">rp, W</tspan></text>
+  <text class="cls-46" transform="translate(402.95 392)"><tspan x="0" y="0">色氨酸</tspan></text>
+  <text class="cls-14" transform="translate(53.21 725.43)"><tspan class="cls-47" x="0" y="0">L</tspan><tspan x="6.23" y="0">ysine, </tspan><tspan class="cls-47" x="40.92" y="0">L</tspan><tspan x="47.15" y="0">ys, K</tspan></text>
+  <text class="cls-46" transform="translate(72.12 714.64)"><tspan x="0" y="0">赖氨酸</tspan></text>
+  <text class="cls-14" transform="translate(215.89 725.43)"><tspan x="0" y="0">arginine,</tspan><tspan class="cls-48" x="46.03" y="0"> </tspan><tspan x="48.71" y="0">Arg, R</tspan></text>
+  <text class="cls-46" transform="translate(239.25 714.64)"><tspan x="0" y="0">精氨酸</tspan></text>
+  <text class="cls-14" transform="translate(385.19 725.43)"><tspan x="0" y="0">histidine, His, H</tspan></text>
+  <text class="cls-46" transform="translate(406.44 714.64)"><tspan x="0" y="0">组氨酸</tspan></text>
+  <text class="cls-45" transform="translate(197.69 10.56)"><tspan x="0" y="0">脂肪族，非极性氨基酸</tspan></text>
+  <text class="cls-45" transform="translate(221.94 309)"><tspan x="0" y="0">芳香族氨基酸</tspan></text>
+  <text class="cls-45" transform="translate(195.13 465.3)"><tspan x="0" y="0">极性，不带电荷氨基酸</tspan></text>
+  <text class="cls-45" transform="translate(195.13 638.89)"><tspan x="0" y="0">极性，带正电荷氨基酸</tspan></text>
+  <text class="cls-45" transform="translate(195.13 789.79)"><tspan x="0" y="0">极性，带负电荷氨基酸</tspan></text>
+  <g>
+    <rect class="cls-57" x="427.44" y="264.68" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(432.24 274.96)"><tspan x="0" y="0">必须</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-57" x="455.91" y="122.23" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(460.71 132.52)"><tspan x="0" y="0">必须</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-57" x="114.35" y="421.34" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(119.14 431.63)"><tspan x="0" y="0">必须</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-57" x="104.53" y="744.73" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(109.33 755.02)"><tspan x="0" y="0">必须</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-57" x="443.87" y="744.73" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(448.67 755.02)"><tspan x="0" y="0">必须</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-57" x="148.01" y="593.4" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(152.8 603.68)"><tspan x="0" y="0">必须</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-52" x="271" y="744.73" width="36.04" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(274 755.02)"><tspan x="0" y="0">半必须</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-57" x="258.24" y="264.68" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(263.04 274.96)"><tspan x="0" y="0">必须</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-57" x="109.42" y="264.68" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(114.22 274.96)"><tspan x="0" y="0">必须</tspan></text>
+  </g>
+  <rect class="cls-51" x="21.74" y="107.68" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(26.54 117.96)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="52.4" y="107.68" width="40.73" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(57.76 117.96)"><tspan x="0" y="0">丙酮酸</tspan></text>
+  <rect class="cls-51" x="149.38" y="107.68" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(154.18 117.96)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="180.03" y="107.68" width="40.73" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(185.4 117.96)"><tspan x="0" y="0">丙酮酸</tspan></text>
+  <rect class="cls-51" x="53.94" y="250.14" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(58.74 260.43)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="84.59" y="250.14" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <rect class="cls-51" x="2.27" y="578.84" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(7.07 589.12)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="32.93" y="578.84" width="40.73" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(38.29 589.12)"><tspan x="0" y="0">丙酮酸</tspan></text>
+  <rect class="cls-51" x="136.68" y="809.59" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(141.48 819.88)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="167.33" y="809.59" width="49.42" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(171.42 819.88)"><tspan x="0" y="0">草酰乙酸</tspan></text>
+  <rect class="cls-51" x="307.25" y="578.84" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(312.05 589.12)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="337.9" y="578.84" width="49.42" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(341.99 589.12)"><tspan x="0" y="0">草酰乙酸</tspan></text>
+  <rect class="cls-58" x="322.05" y="593.4" width="49.42" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(326.13 603.68)"><tspan x="0" y="0">草酰乙酸</tspan></text>
+  <rect class="cls-58" x="59.09" y="264.68" width="49.42" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(63.17 274.96)"><tspan x="0" y="0">草酰乙酸</tspan></text>
+  <rect class="cls-58" x="377.06" y="264.68" width="49.42" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(381.15 274.96)"><tspan x="0" y="0">草酰乙酸</tspan></text>
+  <rect class="cls-58" x="97.65" y="593.4" width="49.42" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(101.73 603.68)"><tspan x="0" y="0">草酰乙酸</tspan></text>
+  <rect class="cls-58" x="54.13" y="744.73" width="49.42" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(58.21 755.02)"><tspan x="0" y="0">草酰乙酸</tspan></text>
+  <rect class="cls-51" x="101.93" y="578.84" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(106.73 589.12)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="132.58" y="578.84" width="40.73" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(137.95 589.12)"><tspan x="0" y="0">丙酮酸</tspan></text>
+  <rect class="cls-51" x="204.13" y="578.84" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(208.92 589.12)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="234.78" y="578.84" width="40.73" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(240.14 589.12)"><tspan x="0" y="0">丙酮酸</tspan></text>
+  <rect class="cls-54" x="206.05" y="250.14" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(210.84 260.43)"><tspan x="0" y="0">升酮</tspan></text>
+  <rect class="cls-54" x="236.7" y="250.14" width="69.72" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(240.5 260.43)"><tspan class="cls-43" x="0" y="0">乙酰乙酰</tspan><tspan class="cls-26" x="40" y="0">-Co</tspan><tspan class="cls-17" x="56.11" y="0">A</tspan></text>
+  <text class="cls-41" transform="translate(88.94 260.43)"><tspan class="cls-43" x="0" y="0">琥珀酰</tspan><tspan class="cls-26" x="30" y="0">-Co</tspan><tspan class="cls-17" x="46.11" y="0">A</tspan></text>
+  <rect class="cls-51" x="373.1" y="250.14" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(377.89 260.43)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="403.75" y="250.14" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(408.1 260.43)"><tspan class="cls-43" x="0" y="0">琥珀酰</tspan><tspan class="cls-26" x="30" y="0">-Co</tspan><tspan class="cls-17" x="46.11" y="0">A</tspan></text>
+  <rect class="cls-51" x="403.44" y="107.68" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(408.23 117.96)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="434.09" y="107.68" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(438.43 117.96)"><tspan class="cls-43" x="0" y="0">琥珀酰</tspan><tspan class="cls-26" x="30" y="0">-Co</tspan><tspan class="cls-17" x="46.11" y="0">A</tspan></text>
+  <rect class="cls-51" x="269.99" y="107.68" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(274.78 117.96)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="300.64" y="107.68" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(306.66 117.96)"><tspan class="cls-26" x="0" y="0">α-</tspan><tspan class="cls-43" x="9.44" y="0">酮戊二酸</tspan></text>
+  <rect class="cls-58" x="284.76" y="122.23" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(290.78 132.52)"><tspan class="cls-26" x="0" y="0">α-</tspan><tspan class="cls-43" x="9.44" y="0">酮戊二酸</tspan></text>
+  <rect class="cls-49" x="23.34" y="122.23" width="67.93" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(28.47 132.52)"><tspan class="cls-26" x="0" y="0">3-</tspan><tspan class="cls-43" x="8.89" y="0">磷酸甘油醛</tspan></text>
+  <rect class="cls-49" x="166.59" y="122.23" width="38.86" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(171.63 132.52)"><tspan x="0" y="0">丙酮酸</tspan></text>
+  <rect class="cls-49" x="416.02" y="122.23" width="38.86" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(421.06 132.52)"><tspan x="0" y="0">丙酮酸</tspan></text>
+  <rect class="cls-49" x="218.4" y="264.68" width="38.86" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(223.45 274.96)"><tspan x="0" y="0">丙酮酸</tspan></text>
+  <rect class="cls-49" x="25.25" y="421.34" width="88.11" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(29.08 431.63)"><tspan class="cls-26" x="0" y="0">PEP/4-</tspan><tspan class="cls-43" x="31.68" y="0">磷酸赤藓糖</tspan></text>
+  <rect class="cls-49" x="4.38" y="593.4" width="67.93" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(9.51 603.68)"><tspan class="cls-26" x="0" y="0">3-</tspan><tspan class="cls-43" x="8.89" y="0">磷酸甘油醛</tspan></text>
+  <rect class="cls-49" x="206.8" y="593.4" width="67.93" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(211.93 603.68)"><tspan class="cls-26" x="0" y="0">3-</tspan><tspan class="cls-43" x="8.89" y="0">磷酸甘油醛</tspan></text>
+  <rect class="cls-58" x="422.46" y="593.4" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(428.48 603.68)"><tspan class="cls-26" x="0" y="0">α-</tspan><tspan class="cls-43" x="9.44" y="0">酮戊二酸</tspan></text>
+  <rect class="cls-58" x="137.09" y="824.12" width="49.42" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(141.18 834.41)"><tspan x="0" y="0">草酰乙酸</tspan></text>
+  <rect class="cls-58" x="369.95" y="824.12" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(375.97 834.41)"><tspan class="cls-26" x="0" y="0">α-</tspan><tspan class="cls-43" x="9.44" y="0">酮戊二酸</tspan></text>
+  <rect class="cls-58" x="209.76" y="744.73" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(215.78 755.02)"><tspan class="cls-26" x="0" y="0">α-</tspan><tspan class="cls-43" x="9.44" y="0">酮戊二酸</tspan></text>
+  <rect class="cls-50" x="382.56" y="744.73" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(388.85 755.02)"><tspan class="cls-26" x="0" y="0">5-</tspan><tspan class="cls-43" x="8.89" y="0">磷酸核糖</tspan></text>
+  <rect class="cls-51" x="407.05" y="578.84" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(411.84 589.12)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="437.7" y="578.84" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(443.72 589.12)"><tspan class="cls-26" x="0" y="0">α-</tspan><tspan class="cls-43" x="9.44" y="0">酮戊二酸</tspan></text>
+  <rect class="cls-51" x="382.56" y="730.16" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(387.35 740.44)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="413.21" y="730.16" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(419.23 740.44)"><tspan class="cls-26" x="0" y="0">α-</tspan><tspan class="cls-43" x="9.44" y="0">酮戊二酸</tspan></text>
+  <rect class="cls-51" x="369.43" y="809.59" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(374.22 819.88)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="400.08" y="809.59" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(406.1 819.88)"><tspan class="cls-26" x="0" y="0">α-</tspan><tspan class="cls-43" x="9.44" y="0">酮戊二酸</tspan></text>
+  <rect class="cls-51" x="212.95" y="730.16" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(217.75 740.44)"><tspan x="0" y="0">升糖</tspan></text>
+  <rect class="cls-51" x="243.6" y="730.16" width="60.25" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(249.62 740.44)"><tspan class="cls-26" x="0" y="0">α-</tspan><tspan class="cls-43" x="9.44" y="0">酮戊二酸</tspan></text>
+  <rect class="cls-54" x="30.64" y="406.83" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(35.44 417.11)"><tspan x="0" y="0">升酮</tspan></text>
+  <rect class="cls-54" x="61.3" y="406.83" width="69.72" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(65.1 417.11)"><tspan class="cls-43" x="0" y="0">乙酰乙酰</tspan><tspan class="cls-26" x="40" y="0">-Co</tspan><tspan class="cls-17" x="56.11" y="0">A</tspan></text>
+  <g>
+    <rect class="cls-57" x="454.61" y="421.34" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+    <text class="cls-42" transform="translate(459.41 431.63)"><tspan x="0" y="0">必须</tspan></text>
+  </g>
+  <rect class="cls-49" x="365.51" y="421.34" width="88.11" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(369.34 431.63)"><tspan class="cls-26" x="0" y="0">PEP/4-</tspan><tspan class="cls-43" x="31.68" y="0">磷酸赤藓糖</tspan></text>
+  <rect class="cls-54" x="370.9" y="406.83" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(375.7 417.11)"><tspan x="0" y="0">升酮</tspan></text>
+  <rect class="cls-54" x="401.56" y="406.83" width="69.72" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(405.36 417.11)"><tspan class="cls-43" x="0" y="0">乙酰乙酰</tspan><tspan class="cls-26" x="40" y="0">-Co</tspan><tspan class="cls-17" x="56.11" y="0">A</tspan></text>
+  <rect class="cls-49" x="214.32" y="421.34" width="88.11" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(218.15 431.63)"><tspan class="cls-26" x="0" y="0">PEP/4-</tspan><tspan class="cls-43" x="31.68" y="0">磷酸赤藓糖</tspan></text>
+  <rect class="cls-54" x="208.19" y="406.83" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(212.99 417.11)"><tspan x="0" y="0">升酮</tspan></text>
+  <rect class="cls-54" x="238.84" y="406.83" width="69.72" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(242.65 417.11)"><tspan class="cls-43" x="0" y="0">乙酰乙酰</tspan><tspan class="cls-26" x="40" y="0">-Co</tspan><tspan class="cls-17" x="56.11" y="0">A</tspan></text>
+  <rect class="cls-54" x="42.11" y="730.16" width="29.59" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-42" transform="translate(46.91 740.44)"><tspan x="0" y="0">升酮</tspan></text>
+  <rect class="cls-54" x="72.77" y="730.16" width="69.72" height="13.54" rx="6.77" ry="6.77"/>
+  <text class="cls-41" transform="translate(76.57 740.44)"><tspan class="cls-43" x="0" y="0">乙酰乙酰</tspan><tspan class="cls-26" x="40" y="0">-Co</tspan><tspan class="cls-17" x="56.11" y="0">A</tspan></text>
+  <g>
+    <text class="cls-21" transform="translate(445.32 473.19)"><tspan x="0" y="0">COOH</tspan></text>
+    <text class="cls-21" transform="translate(438.96 488.68)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="448.22" y="474.3" width=".5" height="7.04"/>
+    <text class="cls-21" transform="translate(445.32 504.14)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-5" transform="translate(458.02 505.79)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="448.22" y="489.79" width=".5" height="7.04"/>
+    <text class="cls-21" transform="translate(445.32 519.63)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-5" transform="translate(458.02 521.28)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="448.22" y="505.36" width=".5" height="6.92"/>
+    <text class="cls-21" transform="translate(445.32 535.12)"><tspan x="0" y="0">C</tspan></text>
+    <rect x="448.22" y="520.81" width=".5" height="6.96"/>
+    <text class="cls-21" transform="translate(460.77 488.68)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-5" transform="translate(473.47 490.33)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="452.32" y="484.97" width="8.11" height=".5"/>
+    <text class="cls-21" transform="translate(434.11 546.06)"><tspan x="0" y="0">O</tspan></text>
+    <polygon points="441.15 540.63 440.8 540.28 445.85 535.2 446.23 535.58 441.15 540.63"/>
+    <polygon points="439.85 539.33 439.46 538.95 444.55 533.9 444.9 534.28 439.85 539.33"/>
+    <text class="cls-21" transform="translate(456.26 546.06)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-5" transform="translate(468.96 547.71)"><tspan x="0" y="0">2</tspan></text>
+    <polygon points="456.26 539.06 455.87 539.44 451.51 535.04 451.9 534.7 456.26 539.06"/>
+  </g>
+  <g>
+    <text class="cls-16" transform="translate(30.88 45.22)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-13" transform="translate(37.28 46.88)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-16" transform="translate(40.98 45.22)"><tspan x="0" y="0">C</tspan></text>
+    <text class="cls-16" transform="translate(40.83 59.12)"><tspan x="0" y="0">COOH</tspan></text>
+    <polygon points="44.51 50.91 43.64 50.91 43.66 48.86 44.56 48.88 44.51 50.91"/>
+    <text class="cls-16" transform="translate(52.92 45.31)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-13" transform="translate(65.73 46.97)"><tspan x="0" y="0">2</tspan></text>
+    <polygon points="51.83 41.34 51.83 42.24 48.81 42.22 48.81 41.32 51.83 41.34"/>
+  </g>
+  <g>
+    <text class="cls-30" transform="translate(172.12 32.02)"><tspan x="0" y="0">COOH</tspan></text>
+    <text class="cls-30" transform="translate(166.03 48.61)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="174.88" y="33.22" width=".56" height="8.15"/>
+    <text class="cls-30" transform="translate(172.12 65.2)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-2" transform="translate(184.3 66.77)"><tspan x="0" y="0">3</tspan></text>
+    <rect x="174.88" y="49.8" width=".56" height="8.15"/>
+    <text class="cls-30" transform="translate(188.7 48.61)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-2" transform="translate(200.88 50.19)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="178.96" y="45" width="9.3" height=".56"/>
+  </g>
+  <g>
+    <text class="cls-39" transform="translate(442.85 24.21)"><tspan x="0" y="0">COOH</tspan></text>
+    <text class="cls-39" transform="translate(436.83 40.6)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="445.59" y="25.39" width=".56" height="8.06"/>
+    <text class="cls-39" transform="translate(442.85 57)"><tspan x="0" y="0">CH</tspan></text>
+    <rect x="445.59" y="41.78" width=".56" height="8.06"/>
+    <text class="cls-39" transform="translate(459.25 40.6)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-29" transform="translate(471.29 42.17)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="449.62" y="37.04" width="9.19" height=".56"/>
+    <text class="cls-39" transform="translate(421.75 68.6)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-29" transform="translate(427.77 70.16)"><tspan x="0" y="0">3</tspan></text>
+    <text class="cls-39" transform="translate(431.25 68.6)"><tspan x="0" y="0">C</tspan></text>
+    <polygon points="437.27 62.67 436.9 62.3 442.69 56.49 443.09 56.88 437.27 62.67"/>
+    <text class="cls-39" transform="translate(454.46 68.6)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-29" transform="translate(466.49 70.16)"><tspan x="0" y="0">3</tspan></text>
+    <rect x="452.39" y="57.45" width=".52" height="6.09" transform="translate(89.8 337.79) rotate(-45)"/>
+  </g>
+  <g>
+    <text class="cls-20" transform="translate(248.46 154.46)"><tspan x="0" y="0">COOH</tspan></text>
+    <text class="cls-20" transform="translate(242.26 171.33)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="251.27" y="155.67" width=".57" height="8.29"/>
+    <text class="cls-20" transform="translate(248.46 188.21)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-31" transform="translate(260.85 189.82)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="251.27" y="172.55" width=".57" height="8.29"/>
+    <text class="cls-20" transform="translate(265.34 171.33)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-31" transform="translate(277.73 172.94)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="255.42" y="167.66" width="9.46" height=".57"/>
+    <text class="cls-20" transform="translate(248.46 205.08)"><tspan x="0" y="0">CH</tspan></text>
+    <rect x="251.27" y="189.42" width=".57" height="8.29"/>
+    <text class="cls-20" transform="translate(224.07 213.52)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-31" transform="translate(230.27 215.13)"><tspan x="0" y="0">3</tspan></text>
+    <text class="cls-20" transform="translate(233.85 213.52)"><tspan x="0" y="0">C</tspan></text>
+    <polygon points="240.6 208.35 240.31 207.87 247.84 203.51 248.13 204.01 240.6 208.35"/>
+    <text class="cls-20" transform="translate(263.07 213.52)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-31" transform="translate(275.46 215.13)"><tspan x="0" y="0">3</tspan></text>
+    <polygon points="263 207.99 262.71 208.47 260.28 207.06 260.57 206.58 263 207.99"/>
+  </g>
+  <g>
+    <text class="cls-27" transform="translate(413.95 154.71)"><tspan x="0" y="0">COOH</tspan></text>
+    <text class="cls-27" transform="translate(407.57 172.09)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="416.85" y="155.96" width=".59" height="8.54"/>
+    <text class="cls-27" transform="translate(413.95 189.47)"><tspan x="0" y="0">CH</tspan></text>
+    <rect x="416.85" y="173.34" width=".59" height="8.54"/>
+    <text class="cls-27" transform="translate(431.33 172.09)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-19" transform="translate(444.1 173.75)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="421.12" y="168.31" width="9.75" height=".59"/>
+    <text class="cls-27" transform="translate(391.58 201.78)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-19" transform="translate(397.97 203.43)"><tspan x="0" y="0">3</tspan></text>
+    <text class="cls-27" transform="translate(401.65 201.78)"><tspan x="0" y="0">C</tspan></text>
+    <polygon points="408.04 195.49 407.64 195.1 413.78 188.93 414.2 189.35 408.04 195.49"/>
+    <text class="cls-27" transform="translate(426.25 201.78)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-19" transform="translate(439.01 203.43)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="424.06" y="189.95" width=".56" height="6.46" transform="translate(-12.31 356.63) rotate(-45)"/>
+    <text class="cls-27" transform="translate(426.25 219.15)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-19" transform="translate(439.01 220.81)"><tspan x="0" y="0">3</tspan></text>
+    <rect x="429.15" y="203" width=".56" height="8.57"/>
+  </g>
+  <g>
+    <text class="cls-33" transform="translate(77.43 161.38)"><tspan x="0" y="0">COO</tspan></text>
+    <text class="cls-33" transform="translate(71.13 178.55)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="80.29" y="162.62" width=".58" height="8.44"/>
+    <text class="cls-33" transform="translate(77.43 195.71)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-15" transform="translate(90.03 197.35)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="80.29" y="179.78" width=".58" height="8.44"/>
+    <text class="cls-33" transform="translate(94.6 178.55)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-15" transform="translate(107.2 180.18)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="84.51" y="174.81" width="9.63" height=".58"/>
+    <text class="cls-33" transform="translate(67.48 212.88)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-15" transform="translate(73.79 214.52)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-33" transform="translate(77.43 212.88)"><tspan x="0" y="0">C</tspan></text>
+    <rect x="80.29" y="196.95" width=".58" height="8.44"/>
+    <text class="cls-33" transform="translate(94.84 212.88)"><tspan x="0" y="0">S</tspan></text>
+    <rect x="84.51" y="209.15" width="9.6" height=".58"/>
+    <text class="cls-33" transform="translate(111.76 212.88)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-15" transform="translate(124.37 214.52)"><tspan x="0" y="0">3</tspan></text>
+    <rect x="101.34" y="209.15" width="9.72" height=".58"/>
+  </g>
+  <g>
+    <polygon points="33.49 357.15 32.92 357.48 32.92 340.73 33.49 341.05 33.49 357.15"/>
+    <rect x="34.91" y="342.02" width=".57" height="14.16"/>
+    <polygon points="47.44 365.19 47.44 365.83 32.92 357.48 33.49 357.15 47.44 365.19"/>
+    <polygon points="61.36 357.15 61.64 357.32 61.64 357.64 47.44 365.83 47.44 365.19 61.36 357.15"/>
+    <polygon points="59.53 355.94 59.82 356.42 47.57 363.48 47.28 363 59.53 355.94"/>
+    <polygon points="61.36 341.05 61.93 340.73 61.93 357.15 61.64 357.32 61.36 357.15 61.36 341.05"/>
+    <polygon points="47.44 333.02 47.44 332.37 61.93 340.73 61.36 341.05 47.44 333.02"/>
+    <polygon points="47.28 335.21 47.57 334.72 59.82 341.78 59.53 342.27 47.28 335.21"/>
+    <polygon points="33.49 341.05 32.92 340.73 47.44 332.37 47.44 333.02 33.49 341.05"/>
+    <polygon points="75.84 365.19 75.84 365.83 61.64 357.64 61.64 357.32 61.93 357.15 75.84 365.19"/>
+    <polygon points="89.79 357.15 90.08 357.32 90.08 357.64 75.84 365.83 75.84 365.19 89.79 357.15"/>
+    <text class="cls-9" transform="translate(100.91 369.2)"><tspan x="0" y="0">COOH</tspan></text>
+    <polygon points="100.99 363.28 100.7 363.77 90.08 357.64 90.08 357.32 90.36 357.15 100.99 363.28"/>
+    <text class="cls-9" transform="translate(86.71 344.58)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-11" transform="translate(100.18 346.33)"><tspan x="0" y="0">2</tspan></text>
+    <polygon points="89.79 345.72 90.36 345.72 90.36 357.15 90.08 357.32 89.79 357.15 89.79 345.72"/>
+  </g>
+  <g>
+    <text class="cls-35" transform="translate(293.12 55.54)"><tspan x="0" y="0">HN</tspan></text>
+    <polygon points="320.91 65.87 321.27 66.34 306.41 66.34 306.73 65.87 320.91 65.87"/>
+    <polygon points="325.29 52.37 325.86 52.2 321.27 66.34 320.91 65.87 325.29 52.37"/>
+    <polygon points="313.84 44.05 313.84 43.76 314.09 43.62 325.86 52.2 325.29 52.37 313.84 44.05"/>
+    <polygon points="305.73 49.93 305.44 49.54 313.59 43.62 313.84 43.76 313.84 44.05 305.73 49.93"/>
+    <polygon points="306.73 65.87 306.41 66.34 303.32 56.9 303.79 56.75 306.73 65.87"/>
+    <text class="cls-35" transform="translate(310.86 32.49)"><tspan x="0" y="0">COOH</tspan></text>
+    <polygon points="313.59 33.53 314.09 33.53 314.09 43.62 313.84 43.76 313.59 43.62 313.59 33.53"/>
+  </g>
+  <g>
+    <text class="cls-22" transform="translate(402.31 367.95)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-22" transform="translate(402.31 375.46)"><tspan x="0" y="0">H</tspan></text>
+    <polygon points="393.02 355.04 392.7 355.12 392.47 354.92 397.22 340.09 397.53 340.01 397.73 340.28 393.02 355.04"/>
+    <polygon points="391.45 353.67 390.94 353.51 395.1 340.44 395.61 340.6 391.45 353.67"/>
+    <polygon points="401.85 361.4 401.57 361.83 392.66 355.43 392.7 355.12 393.02 355.04 401.85 361.4"/>
+    <polygon points="418.05 354.88 418.68 355.08 409.58 361.79 409.26 361.36 418.05 354.88"/>
+    <polygon points="413.19 340.21 413.38 339.93 413.7 339.97 418.68 355.08 418.05 354.88 413.19 340.21"/>
+    <polygon points="411.77 341.93 412.29 341.74 416.41 354.18 415.9 354.37 411.77 341.93"/>
+    <polygon points="397.73 340.28 397.53 340.01 397.65 339.74 413.27 339.66 413.38 339.93 413.19 340.21 397.73 340.28"/>
+    <polygon points="386.23 329.06 386.38 328.47 397.65 339.74 397.53 340.01 397.22 340.09 386.23 329.06"/>
+    <polygon points="371.16 333.1 370.73 332.67 386.38 328.47 386.23 329.06 371.16 333.1"/>
+    <polygon points="372.57 334.71 372.45 334.2 385.64 330.63 385.8 331.14 372.57 334.71"/>
+    <polygon points="367.16 348.13 366.57 348.29 370.73 332.67 371.16 333.1 367.16 348.13"/>
+    <polygon points="378.14 359.16 377.99 359.75 366.57 348.29 367.16 348.13 378.14 359.16"/>
+    <polygon points="378.81 357.12 378.42 357.47 368.76 347.86 369.16 347.47 378.81 357.12"/>
+    <polygon points="392.47 354.92 392.7 355.12 392.66 355.43 377.99 359.75 378.14 359.16 392.47 354.92"/>
+    <polygon points="434.3 320.11 434.58 320.23 434.58 320.55 421 328.39 420.64 328 434.3 320.11"/>
+    <text class="cls-22" transform="translate(445.05 331.73)"><tspan x="0" y="0">COOH</tspan></text>
+    <polygon points="445.13 326.04 444.86 326.51 434.58 320.55 434.58 320.23 434.85 320.11 445.13 326.04"/>
+    <polygon points="420.64 328 421 328.39 413.7 339.97 413.38 339.93 413.27 339.66 420.64 328"/>
+    <text class="cls-22" transform="translate(431.32 307.91)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-32" transform="translate(444.35 309.6)"><tspan x="0" y="0">2</tspan></text>
+    <polygon points="434.3 309.05 434.85 309.05 434.85 320.11 434.58 320.23 434.3 320.11 434.3 309.05"/>
+  </g>
+  <g>
+    <polygon points="218.58 358.91 218.03 359.22 218.03 343.33 218.3 343.17 218.58 343.33 218.58 358.91"/>
+    <rect x="219.95" y="344.27" width=".55" height="13.7"/>
+    <polygon points="232.08 366.68 232.08 367.31 218.03 359.22 218.58 358.91 232.08 366.68"/>
+    <polygon points="245.54 358.91 245.81 359.07 245.81 359.38 232.08 367.31 232.08 366.68 245.54 358.91"/>
+    <polygon points="243.77 357.73 244.05 358.2 232.19 365.03 231.92 364.56 243.77 357.73"/>
+    <polygon points="245.54 343.33 246.09 343.02 246.09 358.91 245.81 359.07 245.54 358.91 245.54 343.33"/>
+    <polygon points="232.08 335.56 232.08 334.93 246.09 343.02 245.54 343.33 232.08 335.56"/>
+    <polygon points="231.92 337.68 232.19 337.21 244.05 344.04 243.77 344.51 231.92 337.68"/>
+    <polygon points="218.58 343.33 218.3 343.17 218.3 342.86 232.08 334.93 232.08 335.56 218.58 343.33"/>
+    <text class="cls-22" transform="translate(194.52 338.78)"><tspan x="0" y="0">HO</tspan></text>
+    <polygon points="208.29 337.72 208.57 337.25 218.3 342.86 218.3 343.17 218.03 343.33 208.29 337.72"/>
+    <polygon points="259.55 366.68 259.55 367.31 245.81 359.38 245.81 359.07 246.09 358.91 259.55 366.68"/>
+    <polygon points="273.05 358.91 273.32 359.07 273.32 359.38 259.55 367.31 259.55 366.68 273.05 358.91"/>
+    <text class="cls-22" transform="translate(283.8 370.56)"><tspan x="0" y="0">COOH</tspan></text>
+    <polygon points="283.88 364.83 283.6 365.31 273.32 359.38 273.32 359.07 273.6 358.91 283.88 364.83"/>
+    <text class="cls-22" transform="translate(270.06 346.74)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-32" transform="translate(283.1 348.44)"><tspan x="0" y="0">2</tspan></text>
+    <polygon points="273.05 347.84 273.6 347.84 273.6 358.91 273.32 359.07 273.05 358.91 273.05 347.84"/>
+  </g>
+  <g>
+    <text class="cls-36" transform="translate(68.17 806.93)"><tspan x="0" y="0">COO</tspan></text>
+    <text class="cls-36" transform="translate(61.79 824.31)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="71.07" y="808.18" width=".59" height="8.54"/>
+    <text class="cls-36" transform="translate(68.17 841.69)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-6" transform="translate(80.94 843.35)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="71.07" y="825.56" width=".59" height="8.54"/>
+    <text class="cls-36" transform="translate(85.56 824.31)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-6" transform="translate(98.32 825.97)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="75.34" y="820.53" width="9.75" height=".59"/>
+    <text class="cls-36" transform="translate(68.17 859.08)"><tspan x="0" y="0">C</tspan></text>
+    <rect x="71.07" y="842.94" width=".59" height="8.54"/>
+    <text class="cls-36" transform="translate(67.93 876.46)"><tspan x="0" y="0">O</tspan></text>
+    <rect x="72.13" y="860.33" width=".56" height="8.54"/>
+    <rect x="70.04" y="860.33" width=".56" height="8.54"/>
+    <text class="cls-36" transform="translate(85.31 859.08)"><tspan x="0" y="0">O</tspan></text>
+    <rect x="75.34" y="855.3" width="9.26" height=".59"/>
+    <text class="cls-36" transform="translate(102.94 859.08)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-6" transform="translate(115.71 860.73)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="92.92" y="855.3" width="9.55" height=".59"/>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(310.82 806.95)"><tspan x="0" y="0">COO</tspan></text>
+    <text class="cls-8" transform="translate(304.42 824.37)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="313.73" y="808.2" width=".59" height="8.57"/>
+    <text class="cls-8" transform="translate(310.82 841.8)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-1" transform="translate(323.62 843.46)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="313.73" y="825.63" width=".59" height="8.57"/>
+    <text class="cls-8" transform="translate(328.25 824.37)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-1" transform="translate(341.04 826.04)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="318.01" y="820.58" width="9.77" height=".59"/>
+    <text class="cls-8" transform="translate(310.82 859.22)"><tspan x="0" y="0">C</tspan></text>
+    <rect x="313.73" y="843.05" width=".59" height="8.57"/>
+    <text class="cls-8" transform="translate(310.58 876.65)"><tspan x="0" y="0">O</tspan></text>
+    <rect x="314.78" y="860.48" width=".57" height="8.57"/>
+    <rect x="312.69" y="860.48" width=".57" height="8.57"/>
+    <text class="cls-8" transform="translate(328 859.22)"><tspan x="0" y="0">OH</tspan></text>
+    <rect x="318.01" y="855.43" width="9.28" height=".59"/>
+  </g>
+  <g>
+    <text class="cls-4" transform="translate(226.72 490.34)"><tspan x="0" y="0">COOH</tspan></text>
+    <text class="cls-4" transform="translate(220.56 507.1)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="229.51" y="491.54" width=".57" height="8.24"/>
+    <text class="cls-4" transform="translate(226.72 523.87)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-28" transform="translate(232.87 525.47)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-4" transform="translate(236.43 523.87)"><tspan x="0" y="0">C</tspan></text>
+    <rect x="229.51" y="508.31" width=".57" height="8.34"/>
+    <text class="cls-4" transform="translate(243.49 507.2)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-28" transform="translate(255.8 508.8)"><tspan x="0" y="0">2</tspan></text>
+    <polygon points="243.04 503.53 243.04 504.1 233.63 504.05 233.63 503.48 243.04 503.53"/>
+    <text class="cls-4" transform="translate(226.96 540.64)"><tspan x="0" y="0">SH</tspan></text>
+    <rect x="229.51" y="526.78" width=".57" height="6.54"/>
+  </g>
+  <g>
+    <text class="cls-10" transform="translate(22.66 497.8)"><tspan x="0" y="0">COO</tspan></text>
+    <text class="cls-10" transform="translate(16.45 514.71)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="25.48" y="499.01" width=".57" height="8.31"/>
+    <text class="cls-10" transform="translate(22.66 531.62)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-37" transform="translate(35.08 533.22)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-10" transform="translate(38.66 531.62)"><tspan x="0" y="0">OH</tspan></text>
+    <rect x="25.48" y="515.92" width=".57" height="8.31"/>
+    <text class="cls-10" transform="translate(39.57 514.71)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-37" transform="translate(51.99 516.32)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="29.64" y="511.03" width="9.48" height=".57"/>
+  </g>
+  <g>
+    <text class="cls-7" transform="translate(122.88 489.28)"><tspan x="0" y="0">COO</tspan></text>
+    <text class="cls-7" transform="translate(116.62 506.31)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="125.71" y="490.5" width=".58" height="8.37"/>
+    <text class="cls-7" transform="translate(122.88 523.34)"><tspan x="0" y="0">CH</tspan></text>
+    <rect x="125.71" y="507.53" width=".58" height="8.37"/>
+    <text class="cls-7" transform="translate(139.91 506.31)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-23" transform="translate(152.41 507.93)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="129.9" y="502.6" width="9.55" height=".58"/>
+    <text class="cls-7" transform="translate(122.88 540.37)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-23" transform="translate(135.38 541.99)"><tspan x="0" y="0">3</tspan></text>
+    <rect x="125.71" y="524.56" width=".58" height="8.37"/>
+    <text class="cls-7" transform="translate(145.92 523.34)"><tspan x="0" y="0">OH</tspan></text>
+    <rect x="135.79" y="519.63" width="9.43" height=".58"/>
+  </g>
+  <g>
+    <text class="cls-24" transform="translate(77.12 637.19)"><tspan x="0" y="0">COOH</tspan></text>
+    <text class="cls-24" transform="translate(69.99 656.62)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="80.36" y="638.59" width=".66" height="9.55"/>
+    <text class="cls-24" transform="translate(73.83 676.04)"><tspan x="0" y="0">(CH</tspan></text>
+    <text class="cls-38" transform="translate(91.38 677.89)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-24" transform="translate(95.5 676.04)"><tspan x="0" y="0">)</tspan></text>
+    <text class="cls-38" transform="translate(98.79 677.89)"><tspan x="0" y="0">4</tspan></text>
+    <rect x="80.36" y="658.02" width=".66" height="9.55"/>
+    <text class="cls-24" transform="translate(96.55 656.62)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-38" transform="translate(110.81 658.47)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="85.14" y="652.39" width="10.89" height=".66"/>
+    <text class="cls-24" transform="translate(77.12 695.47)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-38" transform="translate(91.39 697.32)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="80.36" y="679.42" width=".66" height="7.71"/>
+  </g>
+  <g>
+    <text class="cls-25" transform="translate(232.92 682.5)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-25" transform="translate(232.92 689.59)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-25" transform="translate(249.55 689.58)"><tspan x="0" y="0">(C</tspan></text>
+    <text class="cls-25" transform="translate(258.54 689.58)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-34" transform="translate(264.69 691.17)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-25" transform="translate(268.24 689.58)"><tspan x="0" y="0">)</tspan></text>
+    <text class="cls-34" transform="translate(271.08 691.17)"><tspan x="0" y="0">3</tspan></text>
+    <rect x="239.36" y="685.98" width="9.7" height=".52"/>
+    <text class="cls-25" transform="translate(283.18 689.58)"><tspan x="0" y="0">C</tspan></text>
+    <text class="cls-25" transform="translate(283.18 696.78)"><tspan x="0" y="0">H</tspan></text>
+    <rect x="275.37" y="685.98" width="7.26" height=".52"/>
+    <text class="cls-25" transform="translate(283.18 674.62)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-34" transform="translate(295.48 676.21)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="286" y="675.65" width=".48" height="6.82"/>
+    <text class="cls-25" transform="translate(298.15 689.58)"><tspan x="0" y="0">COOH</tspan></text>
+    <rect x="290" y="685.98" width="7.59" height=".52"/>
+    <text class="cls-25" transform="translate(217.92 689.58)"><tspan x="0" y="0">C</tspan></text>
+    <rect x="224.73" y="685.98" width="7.85" height=".52"/>
+    <text class="cls-25" transform="translate(217.92 674.62)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-34" transform="translate(230.22 676.21)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="219.84" y="675.65" width=".52" height="6.82"/>
+    <rect x="221.66" y="675.65" width=".48" height="6.82"/>
+    <text class="cls-25" transform="translate(193.24 689.58)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-34" transform="translate(199.39 691.17)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-25" transform="translate(202.95 689.58)"><tspan x="0" y="0">N</tspan></text>
+    <rect x="209.4" y="685.98" width="7.96" height=".52"/>
+    <path class="cls-56" d="M223.84,663.16c0,1.57-1.28,2.85-2.85,2.85s-2.85-1.28-2.85-2.85,1.28-2.85,2.85-2.85,2.85,1.28,2.85,2.85h0ZM219.58,663.17h2.85M220.99,661.76v2.82"/>
+  </g>
+  <g>
+    <text class="cls-3" transform="translate(339.97 473.33)"><tspan x="0" y="0">COOH</tspan></text>
+    <text class="cls-3" transform="translate(333.52 489.04)"><tspan x="0" y="0">HC</tspan></text>
+    <rect x="342.91" y="474.45" width=".5" height="7.14"/>
+    <text class="cls-3" transform="translate(339.97 504.72)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-18" transform="translate(352.85 506.4)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="342.91" y="490.17" width=".5" height="7.14"/>
+    <text class="cls-3" transform="translate(339.97 520.44)"><tspan x="0" y="0">CH</tspan></text>
+    <text class="cls-18" transform="translate(352.85 522.11)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="342.91" y="505.96" width=".5" height="7.02"/>
+    <text class="cls-3" transform="translate(339.97 536.15)"><tspan x="0" y="0">C</tspan></text>
+    <rect x="342.91" y="521.64" width=".5" height="7.06"/>
+    <text class="cls-3" transform="translate(355.64 489.04)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-18" transform="translate(368.52 490.72)"><tspan x="0" y="0">2</tspan></text>
+    <rect x="347.06" y="485.28" width="8.23" height=".5"/>
+    <text class="cls-3" transform="translate(328.59 547.25)"><tspan x="0" y="0">O</tspan></text>
+    <polygon points="335.73 541.74 335.38 541.39 340.5 536.23 340.89 536.62 335.73 541.74"/>
+    <polygon points="334.41 540.42 334.02 540.03 339.19 534.91 339.53 535.3 334.41 540.42"/>
+    <text class="cls-3" transform="translate(350.79 547.25)"><tspan x="0" y="0">OH</tspan></text>
+    <polygon points="351.6 540.69 351.25 541.08 346.25 536.07 346.64 535.73 351.6 540.69"/>
+  </g>
+  <g>
+    <text class="cls-40" transform="translate(452.04 690.1)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-40" transform="translate(452.04 696.96)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-40" transform="translate(452.04 666.64)"><tspan x="0" y="0">N</tspan></text>
+    <polygon points="441.47 682.19 441.22 682.36 440.96 682.22 440.96 667.71 441.47 668.07 441.47 682.19"/>
+    <rect x="442.72" y="669.15" width=".47" height="11.96"/>
+    <polygon points="451.46 685.45 451.32 685.91 441.25 682.65 441.22 682.36 441.47 682.19 451.46 685.45"/>
+    <polygon points="463.21 675.13 463.82 675.13 457.76 683.44 457.37 683.15 463.21 675.13"/>
+    <polygon points="457.69 667.54 458.09 667.25 463.82 675.13 463.21 675.13 457.69 667.54"/>
+    <rect x="458.68" y="667.64" width=".49" height="8.28" transform="translate(-307.34 398.41) rotate(-36.03)"/>
+    <polygon points="441.47 668.07 440.96 667.71 451.28 664.35 451.46 664.81 441.47 668.07"/>
+    <polygon points="428.64 689.92 428.64 689.35 440.96 682.22 441.22 682.36 441.25 682.65 428.64 689.92"/>
+    <polygon points="416.11 682.65 416.11 682.36 416.36 682.22 428.64 689.35 428.64 689.92 416.11 682.65"/>
+    <text class="cls-40" transform="translate(381.82 692.86)"><tspan x="0" y="0">HOOC</tspan></text>
+    <polygon points="406.9 687.99 406.65 687.56 415.86 682.22 416.11 682.36 416.11 682.65 406.9 687.99"/>
+    <text class="cls-40" transform="translate(413.14 671.12)"><tspan x="0" y="0">NH</tspan></text>
+    <text class="cls-12" transform="translate(425.03 672.66)"><tspan x="0" y="0">2</tspan></text>
+    <polygon points="415.86 672.16 416.36 672.16 416.36 682.22 416.11 682.36 415.86 682.22 415.86 672.16"/>
+  </g>
+  <line class="cls-55" x1="10.01" y1="289.86" x2="485.03" y2="289.86"/>
+  <line class="cls-55" x1="10.01" y1="445.95" x2="485.03" y2="445.95"/>
+  <line class="cls-55" x1="10.01" y1="620.37" x2="485.03" y2="620.37"/>
+  <line class="cls-55" x1="10.01" y1="771.65" x2="485.03" y2="771.65"/>
+</svg>
