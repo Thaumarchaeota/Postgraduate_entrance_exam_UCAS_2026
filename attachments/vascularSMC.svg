@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.94 120.37">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 12px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-2 {
+        fill: #6d6e71;
+        font-size: 8px;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        font-size: 10px;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        letter-spacing: -.07em;
+      }
+    </style>
+  </defs>
+  <line class="cls-6" x1="70.46" y1="47.77" x2="70.46" y2="28.94"/>
+  <path class="cls-6" d="M70.46,13.83v-1.33c0-6.6,5.4-12,12-12h118.7c6.6,0,12,5.4,12,12v60.95c0,6.6-5.4,12-12,12h-118.7c-6.6,0-12-5.4-12-12v-10.56"/>
+  <path class="cls-6" d="M290.08,85.45h-64.92c-6.6,0-12-5.4-12-12V12.5c0-6.6,5.4-12,12-12h214.28c6.6,0,12,5.4,12,12v60.95c0,6.6-5.4,12-12,12h-117.13"/>
+  <text class="cls-1" transform="translate(182.27 15.36)"><tspan x="0" y="0">NO</tspan></text>
+  <g>
+    <line class="cls-6" x1="155.49" y1="21.38" x2="184.98" y2="21.38"/>
+    <polygon class="cls-4" points="188.51 21.38 183.54 23.42 184.72 21.38 183.54 19.35 188.51 21.38"/>
+  </g>
+  <g>
+    <line class="cls-6" x1="14.43" y1="55.33" x2="41.17" y2="55.33"/>
+    <polygon class="cls-4" points="44.7 55.33 39.72 57.36 40.9 55.33 39.72 53.3 44.7 55.33"/>
+  </g>
+  <g>
+    <line class="cls-6" x1="94.11" y1="21.38" x2="116.16" y2="21.38"/>
+    <polygon class="cls-4" points="119.69 21.38 114.71 23.42 115.89 21.38 114.71 19.35 119.69 21.38"/>
+  </g>
+  <line class="cls-6" x1="14.43" y1="21.38" x2="46.81" y2="21.38"/>
+  <rect class="cls-6" x="46.81" y="47.77" width="47.3" height="15.12"/>
+  <text class="cls-1" transform="translate(49.46 59.31)"><tspan x="0" y="0">mAChR</tspan></text>
+  <text class="cls-2" transform="translate(148.24 77.89)"><tspan x="0" y="0">Endothelial Cell</tspan></text>
+  <text class="cls-2" transform="translate(8.18 77.89)"><tspan class="cls-7" x="0" y="0">V</tspan><tspan x="4.75" y="0">ascular lumen</tspan></text>
+  <text class="cls-2" transform="translate(222.78 69.76)"><tspan class="cls-7" x="0" y="0">V</tspan><tspan x="4.75" y="0">ascular Smooth</tspan><tspan x="9.49" y="8">Muscle Cell</tspan></text>
+  <rect class="cls-6" x="46.81" y="13.83" width="47.3" height="15.12"/>
+  <text class="cls-1" transform="translate(62.79 25.36)"><tspan x="0" y="0">Ca</tspan></text>
+  <rect class="cls-6" x="235.49" y="13.83" width="34.92" height="15.12"/>
+  <text class="cls-1" transform="translate(238.95 25.36)"><tspan x="0" y="0">s-GC</tspan></text>
+  <rect class="cls-6" x="120.13" y="13.83" width="34.92" height="15.12"/>
+  <text class="cls-1" transform="translate(124.58 25.36)"><tspan x="0" y="0">NOS</tspan></text>
+  <text class="cls-1" transform="translate(0 49.16)"><tspan x="0" y="0">ACh</tspan></text>
+  <text class="cls-1" transform="translate(.97 15.14)"><tspan x="0" y="0">Ca</tspan></text>
+  <text class="cls-1" transform="translate(16.31 11.14) scale(.58)"><tspan x="0" y="0">2+</tspan></text>
+  <g>
+    <line class="cls-6" x1="85.3" y1="45.71" x2="85.3" y2="34.96"/>
+    <polygon class="cls-4" points="85.3 31.43 87.33 36.4 85.3 35.22 83.26 36.4 85.3 31.43"/>
+  </g>
+  <circle class="cls-6" cx="11.67" cy="21.38" r="2.76"/>
+  <circle class="cls-6" cx="191.27" cy="21.38" r="2.76"/>
+  <text class="cls-1" transform="translate(289.53 15.36)"><tspan x="0" y="0">cGM</tspan><tspan class="cls-5" x="25.33" y="0">P</tspan></text>
+  <g>
+    <line class="cls-6" x1="270.4" y1="21.38" x2="299.9" y2="21.38"/>
+    <polygon class="cls-4" points="303.43 21.38 298.46 23.42 299.64 21.38 298.46 19.35 303.43 21.38"/>
+  </g>
+  <circle class="cls-6" cx="306.19" cy="21.38" r="2.76"/>
+  <circle class="cls-6" cx="11.67" cy="55.33" r="2.76"/>
+  <g>
+    <line class="cls-6" x1="194.65" y1="21.38" x2="231.35" y2="21.38"/>
+    <polygon class="cls-4" points="234.88 21.38 229.9 23.42 231.08 21.38 229.9 19.35 234.88 21.38"/>
+  </g>
+  <rect class="cls-6" x="337.92" y="13.83" width="34.92" height="15.12"/>
+  <text class="cls-1" transform="translate(342.71 25.36)"><tspan x="0" y="0">PKG</tspan></text>
+  <rect class="cls-6" x="403.42" y="60.9" width="34.92" height="15.12"/>
+  <text class="cls-1" transform="translate(407.21 72.44)"><tspan x="0" y="0">MHC</tspan></text>
+  <rect class="cls-6" x="403.42" y="45.79" width="34.92" height="15.12"/>
+  <text class="cls-1" transform="translate(408.21 57.32)"><tspan x="0" y="0">MLC</tspan></text>
+  <text class="cls-3" transform="translate(405.04 41.7)"><tspan x="0" y="0">myosin</tspan></text>
+  <text class="cls-3" transform="translate(383.87 57.32)"><tspan x="0" y="0">-p</tspan></text>
+  <rect class="cls-6" x="335.7" y="53.35" width="39.36" height="15.12"/>
+  <text class="cls-1" transform="translate(338.71 64.88)"><tspan x="0" y="0">MLC</tspan><tspan class="cls-5" x="25.34" y="0">P</tspan></text>
+  <rect class="cls-6" x="290.08" y="77.89" width="32.23" height="15.12"/>
+  <text class="cls-1" transform="translate(293.52 89.43)"><tspan x="0" y="0">NPR</tspan></text>
+  <text class="cls-1" transform="translate(267.1 114.6)"><tspan x="0" y="0">AN</tspan><tspan class="cls-5" x="16.67" y="0">P</tspan></text>
+  <text class="cls-1" transform="translate(296.6 114.6)"><tspan x="0" y="0">BN</tspan><tspan class="cls-5" x="16.67" y="0">P</tspan></text>
+  <text class="cls-1" transform="translate(325.81 114.6)"><tspan x="0" y="0">CN</tspan><tspan class="cls-5" x="17.33" y="0">P</tspan></text>
+  <g>
+    <line class="cls-6" x1="308.96" y1="21.38" x2="333.78" y2="21.38"/>
+    <polygon class="cls-4" points="337.31 21.38 332.34 23.42 333.52 21.38 332.34 19.35 337.31 21.38"/>
+  </g>
+  <g>
+    <line class="cls-6" x1="375.06" y1="60.9" x2="401.07" y2="60.9"/>
+    <rect class="cls-4" x="400.57" y="57.65" width="1" height="6.5"/>
+  </g>
+  <g>
+    <line class="cls-6" x1="355.38" y1="28.94" x2="355.38" y2="49.53"/>
+    <polygon class="cls-4" points="355.38 53.06 353.35 48.08 355.38 49.26 357.41 48.08 355.38 53.06"/>
+  </g>
+  <g>
+    <line class="cls-6" x1="306.19" y1="77.48" x2="306.19" y2="27.68"/>
+    <polygon class="cls-4" points="306.19 24.15 308.23 29.12 306.19 27.94 304.16 29.12 306.19 24.15"/>
+  </g>
+  <g>
+    <line class="cls-6" x1="306.19" y1="104.14" x2="306.19" y2="97.19"/>
+    <polygon class="cls-4" points="306.19 93.66 308.23 98.64 306.19 97.46 304.16 98.64 306.19 93.66"/>
+  </g>
+  <g>
+    <line class="cls-6" x1="279.95" y1="104.14" x2="287.57" y2="96.57"/>
+    <polygon class="cls-4" points="290.08 94.08 287.98 99.03 287.38 96.76 285.11 96.14 290.08 94.08"/>
+  </g>
+  <g>
+    <line class="cls-6" x1="335.11" y1="104.14" x2="325.12" y2="96.58"/>
+    <polygon class="cls-4" points="322.31 94.45 327.5 95.83 325.33 96.74 325.05 99.08 322.31 94.45"/>
+  </g>
+</svg>
