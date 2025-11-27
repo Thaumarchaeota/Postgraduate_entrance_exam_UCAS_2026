@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 635.69 350.05">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        font-size: 12px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-11, .cls-12 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-1, .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-11 {
+        fill: #92278f;
+      }
+
+      .cls-2 {
+        fill: #00a79d;
+      }
+
+      .cls-4 {
+        fill: #f15a29;
+      }
+
+      .cls-5 {
+        fill: #662d91;
+      }
+
+      .cls-13 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6, .cls-9 {
+        fill: #2b3990;
+      }
+
+      .cls-7 {
+        fill: #27aae1;
+      }
+
+      .cls-8 {
+        fill: #1c75bc;
+      }
+
+      .cls-10 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-16 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12 {
+        fill: #be1e2d;
+      }
+
+      .cls-17 {
+        letter-spacing: -.07em;
+      }
+    </style>
+  </defs>
+  <text class="cls-10" transform="translate(0 10.32)"><tspan class="cls-15" x="0" y="0">T</tspan><tspan x="6.67" y="0">ransmembrane</tspan></text>
+  <text class="cls-3" transform="translate(84.65 29.47)"><tspan x="0" y="0">passive</tspan></text>
+  <text class="cls-3" transform="translate(84.65 184.82)"><tspan x="0" y="0">active</tspan></text>
+  <text class="cls-3" transform="translate(119.21 295.83)"><tspan x="0" y="0">endocytosis</tspan></text>
+  <text class="cls-3" transform="translate(119.21 344.28)"><tspan x="0" y="0">exocytosis</tspan></text>
+  <line class="cls-16" x1="129.17" y1="26.49" x2="135.83" y2="26.49"/>
+  <polyline class="cls-16" points="83.21 182.32 72.13 182.32 72.13 26.49 83.21 26.49"/>
+  <text class="cls-3" transform="translate(143.76 13.69)"><tspan x="0" y="0">simple di</tspan><tspan class="cls-14" x="47.35" y="0">f</tspan><tspan x="50.47" y="0">fusion</tspan></text>
+  <text class="cls-7" transform="translate(234.43 13.69)"><tspan x="0" y="0">hydrophobic small molecule</tspan></text>
+  <text class="cls-3" transform="translate(143.37 48.3)"><tspan x="0" y="0">facilitate di</tspan><tspan class="cls-14" x="56.7" y="0">f</tspan><tspan x="59.82" y="0">fusion</tspan></text>
+  <text class="cls-3" transform="translate(261.55 48.3)"><tspan x="0" y="0">channel protein</tspan></text>
+  <text class="cls-2" transform="translate(331.99 73.56)"><tspan x="0" y="0">GLUT1/2/3/4</tspan></text>
+  <text class="cls-8" transform="translate(356.82 48.72)"><tspan x="0" y="0">ion channel protein, porin,</tspan><tspan class="cls-15" x="138.09" y="0"> </tspan><tspan x="140.77" y="0">AQ</tspan><tspan class="cls-14" x="158.11" y="0">P</tspan></text>
+  <text class="cls-3" transform="translate(261.55 73.56)"><tspan x="0" y="0">transporter</tspan></text>
+  <polyline class="cls-16" points="141.37 44.97 135.83 44.97 135.83 10.86 141.37 10.86"/>
+  <line class="cls-16" x1="117.91" y1="181.96" x2="142.34" y2="181.96"/>
+  <text class="cls-3" transform="translate(144.73 99.9)"><tspan x="0" y="0">cotransporter</tspan></text>
+  <text class="cls-3" transform="translate(144.34 265.23)"><tspan x="0" y="0">light-driven pump</tspan></text>
+  <text class="cls-5" transform="translate(243.9 265.23)"><tspan x="0" y="0">bacterorhodopsin, bR</tspan></text>
+  <text class="cls-3" transform="translate(144.34 184.82)"><tspan class="cls-17" x="0" y="0">A</tspan><tspan x="7.12" y="0">TP-driven pump</tspan></text>
+  <polyline class="cls-16" points="142.34 261.9 128.92 261.9 128.92 97.06 142.34 97.06"/>
+  <line class="cls-16" x1="237.39" y1="45.11" x2="257.07" y2="45.11"/>
+  <polyline class="cls-16" points="257.07 71.33 247.23 71.33 247.23 45.11 257.07 45.11"/>
+  <text class="cls-3" transform="translate(262.08 100.25)"><tspan x="0" y="0">symporter</tspan></text>
+  <text class="cls-4" transform="translate(325.12 100.25)"><tspan x="0" y="0">GLUT5 Na</tspan></text>
+  <text class="cls-4" transform="translate(382.48 96.25) scale(.58)"><tspan x="0" y="0">+</tspan></text>
+  <text class="cls-4" transform="translate(386.56 100.25)"><tspan x="0" y="0">-glucose symporter () </tspan></text>
+  <text class="cls-4" transform="translate(325.12 124.25)"><tspan x="0" y="0">Na</tspan></text>
+  <text class="cls-4" transform="translate(340.46 120.25) scale(.58)"><tspan x="0" y="0">+</tspan></text>
+  <text class="cls-4" transform="translate(344.55 124.25)"><tspan x="0" y="0">-H</tspan></text>
+  <text class="cls-4" transform="translate(357.21 120.25) scale(.58)"><tspan x="0" y="0">+</tspan></text>
+  <text class="cls-4" transform="translate(361.3 124.25)"><tspan x="0" y="0" xml:space="preserve"> antiporter (plant/fungi PM, bacteria CM)</tspan></text>
+  <text class="cls-3" transform="translate(262.08 124.25)"><tspan x="0" y="0">antiporter</tspan></text>
+  <text class="cls-3" transform="translate(261.55 149.15)"><tspan x="0" y="0">P-type pump</tspan></text>
+  <text class="cls-11" transform="translate(339.34 149.15)"><tspan x="0" y="0">Na</tspan></text>
+  <text class="cls-11" transform="translate(354.68 145.16) scale(.58)"><tspan x="0" y="0">+</tspan></text>
+  <text class="cls-11" transform="translate(358.76 149.15)"><tspan x="0" y="0">-K</tspan></text>
+  <text class="cls-11" transform="translate(370.76 145.16) scale(.58)"><tspan x="0" y="0">+</tspan></text>
+  <text class="cls-11" transform="translate(374.85 149.15)"><tspan x="0" y="0" xml:space="preserve"> pump, Ca</tspan></text>
+  <text class="cls-1" transform="translate(430.21 145.16) scale(.58)"><tspan x="0" y="0">2+</tspan></text>
+  <text class="cls-11" transform="translate(438.18 149.15)"><tspan x="0" y="0" xml:space="preserve"> pump, H</tspan></text>
+  <text class="cls-11" transform="translate(486.87 145.16) scale(.58)"><tspan x="0" y="0">+</tspan></text>
+  <text class="cls-11" transform="translate(490.95 149.15)"><tspan x="0" y="0" xml:space="preserve"> pump (bacteria, plant cell) </tspan></text>
+  <text class="cls-3" transform="translate(261.44 174.31)"><tspan class="cls-15" x="0" y="0">V</tspan><tspan x="7.35" y="0">-type proton pump</tspan></text>
+  <text class="cls-11" transform="translate(374.56 174.31)"><tspan class="cls-13" x="0" y="0">L</tspan><tspan x="6.23" y="0">ys/Endo/</tspan><tspan class="cls-17" x="52.93" y="0">V</tspan><tspan x="60.05" y="0">acu membrane</tspan></text>
+  <text class="cls-3" transform="translate(262.08 198.93)"><tspan x="0" y="0">F-type proton pump</tspan></text>
+  <text class="cls-6" transform="translate(374.87 198.93)"><tspan x="0" y="0">F</tspan></text>
+  <text class="cls-6" transform="translate(382.2 202.92) scale(.58)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-6" transform="translate(386.09 198.93)"><tspan x="0" y="0">F</tspan></text>
+  <text class="cls-9" transform="translate(393.42 202.92) scale(.58)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-6" transform="translate(397.31 198.93)"><tspan x="0" y="0">-</tspan><tspan class="cls-17" x="4" y="0">A</tspan><tspan x="11.12" y="0">T</tspan><tspan class="cls-14" x="18.45" y="0">P</tspan><tspan x="26.24" y="0" xml:space="preserve"> synthase (IMM,</tspan><tspan class="cls-14" x="111.59" y="0"> </tspan><tspan x="114.71" y="0">ThylM, bacteria CM)</tspan></text>
+  <text class="cls-3" transform="translate(262.08 225.1)"><tspan x="0" y="0">ABC superfamily</tspan></text>
+  <text class="cls-12" transform="translate(362.2 225.1)"><tspan x="0" y="0">bacteria: carbohydrates, amino acid, peptide</tspan><tspan x="0" y="14.4">animals: phospholipid, cholesterol </tspan></text>
+  <line class="cls-16" x1="221.3" y1="97.06" x2="257.6" y2="97.06"/>
+  <polyline class="cls-16" points="257.6 122.02 240.68 122.02 240.68 97.06 257.6 97.06"/>
+  <text class="cls-3" transform="translate(226.62 296.22)"><tspan x="0" y="0">phagocytosis (&gt;250 nm)</tspan></text>
+  <text class="cls-8" transform="translate(296.22 320.23)"><tspan x="0" y="0">Clathrin-dependent, caveolin-dependent, macropinocytosis</tspan></text>
+  <text class="cls-8" transform="translate(182.14 344.28)"><tspan x="0" y="0">constitutive/regulated</tspan></text>
+  <text class="cls-8" transform="translate(361.27 296.22)"><tspan x="0" y="0">macrophage cell, neutrophil, protozoa</tspan></text>
+  <text class="cls-3" transform="translate(226.62 320.23)"><tspan x="0" y="0">pinocytosis</tspan></text>
+  <line class="cls-16" x1="185.84" y1="293.04" x2="222.14" y2="293.04"/>
+  <polyline class="cls-16" points="222.14 317.99 205.22 317.99 205.22 293.04 222.14 293.04"/>
+  <polyline class="cls-16" points="257.6 221.03 249.35 221.03 249.35 145.08 257.6 145.08"/>
+  <polyline class="cls-16" points="257.6 194.58 249.35 194.58 249.25 169.92 257.49 169.92"/>
+  <polyline class="cls-16" points="116.62 341.71 83.21 341.71 83.21 293.04 116.62 293.04"/>
+  <polyline class="cls-16" points="83.21 293.04 18.27 293.04 18.27 44.83 72.51 44.83"/>
+  <line class="cls-16" x1="18.27" y1="44.83" x2="18.27" y2="14.69"/>
+  <line class="cls-16" x1="238.45" y1="181.96" x2="249.35" y2="181.96"/>
+</svg>
