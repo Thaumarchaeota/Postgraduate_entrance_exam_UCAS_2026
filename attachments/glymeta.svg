@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 655.75 367.83">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #15ae67;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .st25, .st26 {
+        fill: #b78fc0;
+      }
+
+      .st26, .st27, .st28, .st29, .st30, .st31 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+      }
+
+      .st1 {
+        stroke-dasharray: 2 2;
+      }
+
+      .st1, .st20 {
+        stroke: #9fa0a0;
+      }
+
+      .st2, .st4, .st5, .st7, .st8, .st10, .st15, .st18 {
+        stroke: #79c17e;
+      }
+
+      .st3 {
+        stroke: #97b577;
+      }
+
+      .st3, .st4, .st6, .st9, .st11, .st12, .st13, .st14, .st16, .st17, .st19, .st22, .st23 {
+        stroke-width: 2px;
+      }
+
+      .st32 {
+        fill: url(#_未命名的渐变_212);
+      }
+
+      .st33 {
+        fill: url(#_未命名的渐变_104);
+      }
+
+      .st34 {
+        fill: url(#_未命名的渐变_13__副本1);
+      }
+
+      .st5 {
+        stroke-dasharray: 2.02 2.02;
+      }
+
+      .st6 {
+        stroke: #85bfda;
+      }
+
+      .st35 {
+        fill: url(#_未命名的渐变_106);
+      }
+
+      .st7 {
+        stroke-dasharray: 1.97 1.97;
+      }
+
+      .st36 {
+        font-size: 6.84px;
+      }
+
+      .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .st36, .st37, .st43, .st47 {
+        fill: #302927;
+      }
+
+      .st37, .st40, .st41, .st42, .st45 {
+        font-size: 8px;
+      }
+
+      .st48 {
+        fill: #3f3b3a;
+      }
+
+      .st8 {
+        stroke-dasharray: 2.01 2.01;
+      }
+
+      .st49, .st31 {
+        fill: #85bfda;
+      }
+
+      .st9 {
+        stroke: url(#_未命名的渐变_13__副本3);
+      }
+
+      .st50, .st40, .st46 {
+        fill: #15ae67;
+      }
+
+      .st10 {
+        stroke-dasharray: 1.96 1.96;
+      }
+
+      .st11 {
+        stroke: url(#_未命名的渐变_10);
+      }
+
+      .st51 {
+        fill: url(#_未命名的渐变_107);
+      }
+
+      .st12 {
+        stroke: url(#_未命名的渐变_13__副本);
+      }
+
+      .st13 {
+        stroke: #f39800;
+      }
+
+      .st38, .st39, .st46 {
+        font-size: 6px;
+      }
+
+      .st38, .st52, .st45 {
+        fill: #ea5515;
+      }
+
+      .st39 {
+        fill: #1d2088;
+      }
+
+      .st53 {
+        fill: url(#_未命名的渐变_103);
+      }
+
+      .st27, .st54 {
+        fill: #f39800;
+      }
+
+      .st14 {
+        stroke: url(#_未命名的渐变_105);
+      }
+
+      .st15 {
+        stroke-dasharray: 1.99 1.99;
+      }
+
+      .st41, .st44, .st55 {
+        fill: #9fa0a0;
+      }
+
+      .st16 {
+        stroke: #b78fc0;
+      }
+
+      .st28, .st56 {
+        fill: #92cfbe;
+      }
+
+      .st42 {
+        fill: #182a88;
+      }
+
+      .st17 {
+        stroke: url(#_未命名的渐变_102);
+      }
+
+      .st18 {
+        stroke-dasharray: 1.94 1.94;
+      }
+
+      .st43, .st44 {
+        font-size: 12px;
+      }
+
+      .st29, .st57 {
+        fill: #79c17e;
+      }
+
+      .st58 {
+        fill: url(#_未命名的渐变_211);
+      }
+
+      .st59 {
+        fill: url(#_未命名的渐变_13__副本5);
+      }
+
+      .st19 {
+        stroke: #302927;
+      }
+
+      .st60 {
+        fill: url(#_未命名的渐变_101);
+      }
+
+      .st21 {
+        stroke: #ea5515;
+      }
+
+      .st22 {
+        stroke: #92cfbe;
+      }
+
+      .st61 {
+        fill: url(#_未命名的渐变_13__副本2);
+      }
+
+      .st23 {
+        stroke: url(#_未命名的渐变_21);
+      }
+
+      .st24 {
+        stroke: #3f3b3a;
+      }
+
+      .st62, .st30 {
+        fill: #97b577;
+      }
+
+      .st63 {
+        fill: url(#_未命名的渐变_13__副本4);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_10" data-name="未命名的渐变 10" x1="483.69" y1="106.78" x2="510.14" y2="106.78" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b78fc0"/>
+      <stop offset="1" stop-color="#85bfda"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_101" data-name="未命名的渐变 10" x1="483.69" y1="88.39" x2="510.14" y2="88.39" xlink:href="#_未命名的渐变_10"/>
+    <linearGradient id="_未命名的渐变_102" data-name="未命名的渐变 10" x1="222.66" y1="122.49" x2="264.85" y2="122.49" xlink:href="#_未命名的渐变_10"/>
+    <linearGradient id="_未命名的渐变_103" data-name="未命名的渐变 10" x1="222.66" y1="122.5" x2="264.85" y2="122.5" xlink:href="#_未命名的渐变_10"/>
+    <linearGradient id="_未命名的渐变_104" data-name="未命名的渐变 10" x1="222.66" y1="122.5" x2="264.85" y2="122.5" xlink:href="#_未命名的渐变_10"/>
+    <linearGradient id="_未命名的渐变_13__副本" data-name="未命名的渐变 13 _副本" x1="446.7" y1="180.9" x2="382.34" y2="180.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b78fc0"/>
+      <stop offset="1" stop-color="#97b577"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_13__副本1" data-name="未命名的渐变 13 _副本" y1="180.9" x2="382.34" y2="180.9" xlink:href="#_未命名的渐变_13__副本"/>
+    <linearGradient id="_未命名的渐变_13__副本2" data-name="未命名的渐变 13 _副本" x1="446.7" y1="180.9" x2="382.34" y2="180.9" xlink:href="#_未命名的渐变_13__副本"/>
+    <linearGradient id="_未命名的渐变_21" data-name="未命名的渐变 21" x1="596.49" y1="128.59" x2="596.49" y2="173.01" gradientUnits="userSpaceOnUse">
+      <stop offset=".4" stop-color="#b78fc0"/>
+      <stop offset=".58" stop-color="#97b577"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_211" data-name="未命名的渐变 21" x1="596.49" x2="596.49" y2="173.01" xlink:href="#_未命名的渐变_21"/>
+    <linearGradient id="_未命名的渐变_212" data-name="未命名的渐变 21" x1="596.49" y1="128.59" x2="596.49" y2="173.01" xlink:href="#_未命名的渐变_21"/>
+    <linearGradient id="_未命名的渐变_13__副本3" data-name="未命名的渐变 13 _副本" x1="339.33" x2="276.7" xlink:href="#_未命名的渐变_13__副本"/>
+    <linearGradient id="_未命名的渐变_13__副本4" data-name="未命名的渐变 13 _副本" x1="339.33" y1="180.9" x2="276.7" y2="180.9" xlink:href="#_未命名的渐变_13__副本"/>
+    <linearGradient id="_未命名的渐变_13__副本5" data-name="未命名的渐变 13 _副本" x1="339.33" y1="180.9" x2="276.7" y2="180.9" xlink:href="#_未命名的渐变_13__副本"/>
+    <linearGradient id="_未命名的渐变_105" data-name="未命名的渐变 10" x1="411.17" y1="122.49" x2="574.09" y2="122.49" xlink:href="#_未命名的渐变_10"/>
+    <linearGradient id="_未命名的渐变_106" data-name="未命名的渐变 10" x1="411.17" y1="122.5" x2="574.09" y2="122.5" xlink:href="#_未命名的渐变_10"/>
+    <linearGradient id="_未命名的渐变_107" data-name="未命名的渐变 10" x1="411.17" y1="122.5" x2="574.09" y2="122.5" xlink:href="#_未命名的渐变_10"/>
+  </defs>
+  <g>
+    <line class="st2" x1="218.84" y1="282.26" x2="218.84" y2="281.26"/>
+    <line class="st8" x1="218.84" y1="279.25" x2="218.84" y2="252.11"/>
+    <line class="st2" x1="218.84" y1="251.11" x2="218.84" y2="250.11"/>
+    <polygon class="st57" points="218.84 285.08 220.47 281.1 218.84 282.05 217.21 281.1 218.84 285.08"/>
+  </g>
+  <g>
+    <line class="st2" x1="269.67" y1="298.76" x2="268.67" y2="298.76"/>
+    <line class="st10" x1="266.71" y1="298.76" x2="244.17" y2="298.76"/>
+    <line class="st2" x1="243.19" y1="298.76" x2="242.19" y2="298.76"/>
+    <polygon class="st57" points="272.5 298.76 268.52 297.13 269.46 298.76 268.52 300.39 272.5 298.76"/>
+  </g>
+  <g>
+    <line class="st2" x1="245.01" y1="240.45" x2="246.01" y2="240.45"/>
+    <line class="st7" x1="247.99" y1="240.45" x2="302.23" y2="240.45"/>
+    <line class="st2" x1="303.22" y1="240.45" x2="304.22" y2="240.45"/>
+    <polygon class="st57" points="242.19 240.45 246.17 242.07 245.23 240.45 246.17 238.82 242.19 240.45"/>
+  </g>
+  <g>
+    <line class="st2" x1="256.5" y1="189.64" x2="255.99" y2="190.49"/>
+    <line class="st15" x1="254.96" y1="192.21" x2="228.82" y2="235.83"/>
+    <line class="st2" x1="228.31" y1="236.68" x2="227.79" y2="237.54"/>
+    <polygon class="st57" points="257.96 187.21 254.52 189.79 256.4 189.82 257.3 191.46 257.96 187.21"/>
+  </g>
+  <g>
+    <line class="st2" x1="250.54" y1="189.02" x2="250.03" y2="189.87"/>
+    <line class="st15" x1="249" y1="191.58" x2="222.86" y2="235.21"/>
+    <line class="st2" x1="222.34" y1="236.06" x2="221.83" y2="236.92"/>
+    <polygon class="st57" points="251.99 186.59 248.55 189.17 250.43 189.2 251.34 190.84 251.99 186.59"/>
+  </g>
+  <text class="st43" transform="translate(110.95 211.52)"><tspan x="0" y="0">Pyruvate</tspan></text>
+  <text class="st43" transform="translate(104.62 271.25)"><tspan x="0" y="0">Acetyl-CoA</tspan></text>
+  <text class="st37" transform="translate(483.18 208.64)"><tspan x="0" y="0">Acetyl-CoA</tspan></text>
+  <text class="st44" transform="translate(100.28 311.41)"><tspan x="0" y="0">Malonyl-CoA</tspan></text>
+  <text class="st44" transform="translate(16.33 271.25)"><tspan x="0" y="0">HMG-CoA</tspan></text>
+  <text class="st44" transform="translate(105.62 351.18)"><tspan x="0" y="0">Fatty acids</tspan></text>
+  <text class="st43" transform="translate(211.72 248.99)"><tspan x="0" y="0">OAA</tspan></text>
+  <text class="st43" transform="translate(208.05 296.88)"><tspan x="0" y="0">citrate</tspan></text>
+  <text class="st43" transform="translate(276.3 296.88)"><tspan x="0" y="0">isocitrate</tspan></text>
+  <text class="st43" transform="translate(249.77 184.96)"><tspan x="0" y="0">PEP</tspan></text>
+  <text class="st43" transform="translate(344.74 184.73)"><tspan x="0" y="0">2-PGA</tspan></text>
+  <text class="st43" transform="translate(449.73 184.73)"><tspan x="0" y="0">3-PGA</tspan></text>
+  <text class="st43" transform="translate(570.97 184.73)"><tspan x="0" y="0">1,3-BPG</tspan></text>
+  <text class="st43" transform="translate(493.61 81.84)"><tspan x="0" y="0">G3P</tspan></text>
+  <text class="st43" transform="translate(371.89 126.93)"><tspan x="0" y="0">F16BP</tspan></text>
+  <text class="st38" transform="translate(280.25 140.37)"><tspan x="0" y="0">glucagon</tspan></text>
+  <text class="st46" transform="translate(240.05 140.37)"><tspan x="0" y="0">Xu5P/insulin</tspan></text>
+  <text class="st40" transform="translate(265.41 152.97)"><tspan x="0" y="0">F26BP</tspan></text>
+  <text class="st46" transform="translate(314.69 161.49)"><tspan x="0" y="0">AMP/ADP</tspan></text>
+  <text class="st38" transform="translate(344.24 161.49)"><tspan x="0" y="0">ATP/citrate</tspan></text>
+  <text class="st43" transform="translate(266.47 126.93)"><tspan x="0" y="0">F6P</tspan></text>
+  <g>
+    <path class="st22" d="M209.36,78.45v-7.78c0-3.13,2.54-5.67,5.67-5.67h1.09"/>
+    <polygon class="st56" points="221.76 65 213.8 68.25 215.69 65 213.8 61.74 221.76 65"/>
+  </g>
+  <g>
+    <path class="st16" d="M175.81,120.66h-62.76c-3.13,0-5.67-2.54-5.67-5.67v-1.09"/>
+    <polygon class="st25" points="107.38 108.25 110.64 116.21 107.38 114.32 104.13 116.21 107.38 108.25"/>
+  </g>
+  <g>
+    <path class="st13" d="M331.39,293.56h5.06c3.13,0,5.67,2.54,5.67,5.67v1.09"/>
+    <polygon class="st54" points="342.12 305.96 338.87 298 342.12 299.89 345.37 298 342.12 305.96"/>
+  </g>
+  <g>
+    <path class="st13" d="M352.42,293.56h9.94c3.13,0,5.67,2.54,5.67,5.67v1.09"/>
+    <polygon class="st54" points="368.03 305.96 364.78 298 368.03 299.89 371.29 298 368.03 305.96"/>
+  </g>
+  <text class="st36" transform="translate(104.34 106.56)"><tspan x="0" y="0">Pi</tspan></text>
+  <text class="st37" transform="translate(48.62 39.27)"><tspan x="0" y="0">Glycogen</tspan></text>
+  <text class="st37" transform="translate(122.35 39.27)"><tspan x="0" y="0">UDPG</tspan></text>
+  <text class="st46" transform="translate(67.14 68.21)"><tspan x="0" y="0">GPa (+p)</tspan></text>
+  <text class="st38" transform="translate(66.31 77.9)"><tspan x="0" y="0">PP1</tspan></text>
+  <text class="st46" transform="translate(82.39 78)"><tspan x="0" y="0">GPK</tspan></text>
+  <text class="st38" transform="translate(67.9 89.54)"><tspan x="0" y="0">GPb (-p)</tspan></text>
+  <text class="st38" transform="translate(91.42 33.39)"><tspan x="0" y="0">GSa (-p)</tspan></text>
+  <text class="st46" transform="translate(90.66 12.42)"><tspan x="0" y="0">GSb (+p)</tspan></text>
+  <g>
+    <path class="st50" d="M3.58,91.46h3.14v.53h-2.57v1.31h2.38v.5h-2.38v1.46h2.61v.51h-3.18v-4.3Z"/>
+    <path class="st50" d="M8.43,91.46h.45l-1.37,4.3h-.45l1.37-4.3Z"/>
+    <path class="st50" d="M9.19,91.46h.69l2.17,3.49v-3.49h.55v4.3h-.65l-2.21-3.48v3.48h-.56v-4.3Z"/>
+    <path class="st50" d="M13.58,91.46h3.14v.53h-2.57v1.31h2.38v.5h-2.38v1.46h2.61v.51h-3.18v-4.3Z"/>
+    <path class="st50" d="M20.51,91.39c-.31.6-.51,1.03-.6,1.32-.14.43-.21.92-.21,1.48s.08,1.08.24,1.55c.1.29.29.71.58,1.25h-.35c-.29-.45-.46-.73-.53-.85s-.14-.29-.22-.5c-.11-.29-.19-.6-.23-.93-.02-.17-.03-.33-.03-.49,0-.58.09-1.09.27-1.54.12-.29.36-.72.72-1.29h.37Z"/>
+    <path class="st50" d="M21.12,92.63h.52v.45c.12-.15.24-.27.34-.34.17-.12.37-.18.59-.18.25,0,.45.06.6.18.09.07.16.17.23.31.12-.17.25-.29.41-.37s.34-.12.53-.12c.42,0,.71.15.86.46.08.16.12.38.12.66v2.09h-.55v-2.18c0-.21-.05-.35-.16-.43s-.23-.12-.38-.12c-.21,0-.38.07-.53.21s-.22.37-.22.69v1.83h-.54v-2.05c0-.21-.03-.37-.08-.47-.08-.15-.23-.22-.45-.22-.2,0-.38.08-.54.23s-.25.43-.25.84v1.66h-.53v-3.14Z"/>
+    <path class="st50" d="M26.65,92.63v2.08c0,.16.03.29.08.39.09.19.27.28.52.28.37,0,.62-.16.75-.49.07-.18.11-.42.11-.72v-1.54h.53v3.14h-.5v-.46c-.06.12-.15.22-.25.3-.2.16-.45.25-.73.25-.45,0-.75-.15-.91-.45-.09-.16-.13-.37-.13-.64v-2.13h.54Z"/>
+    <path class="st50" d="M29.77,94.78c.02.18.06.31.13.4.13.17.36.25.69.25.2,0,.37-.04.52-.13s.22-.22.22-.39c0-.13-.06-.24-.18-.31-.08-.04-.23-.09-.45-.15l-.42-.11c-.27-.07-.46-.14-.59-.22-.23-.14-.34-.34-.34-.59,0-.3.11-.54.32-.72s.5-.28.86-.28c.47,0,.81.14,1.02.42.13.18.19.37.19.57h-.5c0-.12-.05-.23-.13-.33-.12-.14-.33-.21-.63-.21-.2,0-.35.04-.45.11s-.15.18-.15.3c0,.14.07.25.2.33.08.05.19.09.35.13l.35.08c.38.09.63.18.76.27.21.13.31.35.31.64s-.11.52-.32.72-.54.3-.97.3c-.47,0-.8-.11-.99-.32s-.3-.47-.31-.79h.51Z"/>
+    <path class="st50" d="M34.53,92.79c.22.17.35.47.4.89h-.51c-.03-.19-.1-.35-.21-.48s-.29-.19-.54-.19c-.34,0-.58.16-.72.49-.09.21-.14.48-.14.79s.07.58.2.79.34.32.63.32c.22,0,.39-.07.52-.2s.22-.32.26-.55h.51c-.06.42-.21.72-.44.91s-.53.29-.9.29c-.41,0-.74-.15-.98-.45s-.37-.67-.37-1.12c0-.55.13-.98.4-1.29s.61-.46,1.02-.46c.35,0,.64.09.86.26Z"/>
+    <path class="st50" d="M35.47,91.46h.53v4.3h-.53v-4.3Z"/>
+    <path class="st50" d="M38.74,92.71c.21.1.37.24.48.41.11.16.18.34.21.55.03.14.05.38.05.69h-2.3c0,.32.08.57.23.77s.36.29.65.29c.28,0,.5-.09.66-.27.09-.11.16-.23.2-.37h.52c-.01.12-.06.24-.14.39s-.16.26-.26.35c-.16.16-.36.26-.59.32-.13.03-.27.05-.43.05-.39,0-.72-.14-.99-.43s-.41-.68-.41-1.19.14-.91.41-1.23.63-.47,1.07-.47c.22,0,.44.05.65.16ZM38.94,93.94c-.02-.23-.07-.41-.15-.55-.14-.25-.39-.38-.72-.38-.24,0-.45.09-.61.26s-.25.4-.26.67h1.74Z"/>
+    <path class="st50" d="M39.95,96.99c.31-.61.51-1.05.6-1.32.14-.42.21-.91.21-1.48s-.08-1.08-.24-1.55c-.1-.29-.29-.71-.58-1.25h.35c.3.48.48.78.55.89s.13.27.21.46c.09.24.16.49.2.72s.06.47.06.69c0,.58-.09,1.09-.28,1.55-.12.29-.35.72-.72,1.29h-.37Z"/>
+    <path class="st50" d="M10.6,97.58c.43.22.69.62.79,1.18h-.58c-.07-.31-.22-.54-.44-.69s-.5-.22-.83-.22c-.4,0-.73.15-1.01.45s-.41.74-.41,1.34c0,.51.11.93.34,1.25s.59.48,1.1.48c.39,0,.71-.11.96-.34s.39-.59.39-1.09h-1.35v-.48h1.89v2.3h-.38l-.14-.55c-.2.22-.37.37-.52.45-.26.14-.58.22-.98.22-.51,0-.95-.17-1.32-.5-.4-.41-.6-.98-.6-1.71s.2-1.29.59-1.72c.37-.41.85-.61,1.44-.61.4,0,.75.08,1.05.23Z"/>
+    <path class="st50" d="M15.44,97.77c.3.29.47.61.5.98h-.57c-.06-.28-.19-.5-.39-.66s-.46-.24-.81-.24c-.42,0-.77.15-1.03.45s-.39.75-.39,1.37c0,.5.12.91.35,1.23s.59.47,1.05.47c.43,0,.76-.17.98-.5.12-.17.21-.4.27-.69h.57c-.05.45-.22.83-.5,1.14-.34.37-.8.55-1.38.55-.5,0-.92-.15-1.26-.45-.45-.4-.67-1.02-.67-1.85,0-.63.17-1.16.5-1.56.36-.44.86-.66,1.5-.66.54,0,.97.14,1.27.43Z"/>
+    <path class="st50" d="M19.6,97.58c.43.22.69.62.79,1.18h-.58c-.07-.31-.22-.54-.44-.69s-.5-.22-.83-.22c-.4,0-.73.15-1.01.45s-.41.74-.41,1.34c0,.51.11.93.34,1.25s.59.48,1.1.48c.39,0,.71-.11.96-.34s.39-.59.39-1.09h-1.35v-.48h1.89v2.3h-.38l-.14-.55c-.2.22-.37.37-.52.45-.26.14-.58.22-.98.22-.51,0-.95-.17-1.32-.5-.4-.41-.6-.98-.6-1.71s.2-1.29.59-1.72c.37-.41.85-.61,1.44-.61.4,0,.75.08,1.05.23Z"/>
+    <path class="st50" d="M24.35,97.39c-.31.6-.51,1.03-.6,1.32-.14.43-.21.92-.21,1.48s.08,1.08.24,1.55c.1.29.29.71.58,1.25h-.35c-.29-.45-.46-.73-.53-.85s-.14-.29-.22-.5c-.11-.29-.19-.6-.23-.93-.02-.17-.03-.33-.03-.49,0-.58.09-1.09.27-1.54.12-.29.36-.72.72-1.29h.37Z"/>
+    <path class="st50" d="M24.97,97.46h.53v4.3h-.53v-4.3Z"/>
+    <path class="st50" d="M26.29,97.46h.54v.6h-.54v-.6ZM26.29,98.64h.54v3.12h-.54v-3.12Z"/>
+    <path class="st50" d="M27.88,98.63l.84,2.55.88-2.55h.58l-1.18,3.14h-.56l-1.16-3.14h.61Z"/>
+    <path class="st50" d="M32.57,98.71c.21.1.37.24.48.41.11.16.18.34.21.55.03.14.05.38.05.69h-2.3c0,.32.08.57.23.77s.36.29.65.29c.28,0,.5-.09.66-.27.09-.11.16-.23.2-.37h.52c-.01.12-.06.24-.14.39s-.16.26-.26.35c-.16.16-.36.26-.59.32-.13.03-.27.05-.43.05-.39,0-.72-.14-.99-.43s-.41-.68-.41-1.19.14-.91.41-1.23.63-.47,1.07-.47c.22,0,.44.05.65.16ZM32.77,99.94c-.02-.23-.07-.41-.15-.55-.14-.25-.39-.38-.72-.38-.24,0-.45.09-.61.26s-.25.4-.26.67h1.74Z"/>
+    <path class="st50" d="M33.97,98.63h.5v.54c.04-.11.14-.23.3-.39s.34-.23.55-.23c0,0,.03,0,.05,0s.06,0,.12.01v.56s-.06,0-.09-.01-.05,0-.09,0c-.27,0-.47.09-.61.26s-.21.37-.21.59v1.8h-.53v-3.14Z"/>
+    <path class="st50" d="M35.78,102.99c.31-.61.51-1.05.6-1.32.14-.42.21-.91.21-1.48s-.08-1.08-.24-1.55c-.1-.29-.29-.71-.58-1.25h.35c.3.48.48.78.55.89s.13.27.21.46c.09.24.16.49.2.72s.06.47.06.69c0,.58-.09,1.09-.28,1.55-.12.29-.35.72-.72,1.29h-.37Z"/>
+  </g>
+  <text class="st46" transform="translate(61.59 99.74)"><tspan x="0" y="0">cAMP</tspan></text>
+  <text class="st39" transform="translate(136.34 50.91)"><tspan x="0" y="0">UGPase</tspan></text>
+  <text class="st37" transform="translate(126.13 63.16)"><tspan x="0" y="0">G1P</tspan></text>
+  <text class="st43" transform="translate(367.91 16.52)"><tspan x="0" y="0">Ru5P</tspan></text>
+  <text class="st43" transform="translate(435.03 46.25)"><tspan x="0" y="0">R5P</tspan></text>
+  <text class="st43" transform="translate(483.66 46.25)"><tspan x="0" y="0">5’-PRPP</tspan></text>
+  <text class="st43" transform="translate(371 81.84)"><tspan x="0" y="0">S7P</tspan></text>
+  <text class="st43" transform="translate(302.01 81.84)"><tspan x="0" y="0">E4P</tspan></text>
+  <text class="st28" transform="translate(477.88 25.98)"><tspan x="0" y="0">PPP</tspan></text>
+  <text class="st31" transform="translate(67.84 161.49)"><tspan x="0" y="0">Glycolsis-I</tspan></text>
+  <text class="st30" transform="translate(50.36 184.5)"><tspan x="0" y="0">Glycolsis-II</tspan></text>
+  <text class="st27" transform="translate(188.56 321.86)"><tspan x="0" y="0">TCA cycle</tspan></text>
+  <text class="st29" transform="translate(326.08 341.81)"><tspan x="0" y="0">glyoxylate cycle</tspan></text>
+  <text class="st26" transform="translate(284.55 206.09)"><tspan x="0" y="0">Gluconeogenesis</tspan></text>
+  <text class="st43" transform="translate(367.66 46.05)"><tspan x="0" y="0">Xu5P</tspan></text>
+  <text class="st43" transform="translate(276.98 47.03)"><tspan x="0" y="0">G3P</tspan></text>
+  <text class="st43" transform="translate(174 16.52)"><tspan x="0" y="0">glucogate-6P</tspan></text>
+  <text class="st43" transform="translate(190.35 50.98)"><tspan x="0" y="0">6PGδL</tspan></text>
+  <text class="st43" transform="translate(196.84 126.93)"><tspan x="0" y="0">G6P</tspan></text>
+  <text class="st43" transform="translate(40.51 126.93)"><tspan x="0" y="0">D-Glucose</tspan></text>
+  <text class="st42" transform="translate(546.03 98.27)"><tspan x="0" y="0">TPI</tspan></text>
+  <text class="st41" transform="translate(522.76 75.53)"><tspan x="0" y="0">bacteria</tspan></text>
+  <text class="st41" transform="translate(598.53 103.45)"><tspan x="0" y="0">eukaryote</tspan></text>
+  <text class="st44" transform="translate(22.83 322.38)"><tspan x="0" y="0">steroid</tspan><tspan x="5.67" y="12">CoQ</tspan><tspan x="-7" y="24">bile acids</tspan></text>
+  <text class="st44" transform="translate(8.15 310.8)"><tspan x="0" y="0">ketone body</tspan></text>
+  <text class="st44" transform="translate(573.82 74.81)"><tspan x="0" y="0">glycerol-</tspan><tspan x="-14.02" y="12">phospholipids</tspan></text>
+  <text class="st44" transform="translate(568.13 45.15)"><tspan x="0" y="0">nucleotide</tspan></text>
+  <text class="st42" transform="translate(564.36 151.59)"><tspan x="0" y="0">GAPDH</tspan></text>
+  <text class="st37" transform="translate(558.45 165.5)"><tspan x="0" y="0">NADH</tspan></text>
+  <text class="st37" transform="translate(611.25 140.62)"><tspan x="0" y="0">NAD</tspan></text>
+  <text class="st37" transform="translate(628.14 137.96) scale(.58)"><tspan x="0" y="0">+</tspan></text>
+  <text class="st42" transform="translate(462.17 118.32)"><tspan x="0" y="0">Aldoase</tspan></text>
+  <text class="st42" transform="translate(210.51 177)"><tspan x="0" y="0">PK</tspan></text>
+  <text class="st42" transform="translate(294 177)"><tspan x="0" y="0">enolase</tspan></text>
+  <text class="st42" transform="translate(524.66 174.56)"><tspan x="0" y="0">PGK</tspan></text>
+  <text class="st42" transform="translate(383.02 217.59)"><tspan x="0" y="0">malate synthase (glyoxysome)</tspan></text>
+  <text class="st42" transform="translate(486.62 344.85)"><tspan x="0" y="0">isocitrate lyase (glyoxysome)</tspan></text>
+  <text class="st42" transform="translate(578.73 240.64)"><tspan x="0" y="0">to Mt</tspan></text>
+  <text class="st42" transform="translate(228.4 271.33)"><tspan x="0" y="0">CS</tspan></text>
+  <text class="st42" transform="translate(240.21 288.68)"><tspan x="0" y="0">aconitase</tspan></text>
+  <text class="st42" transform="translate(345.12 288.68)"><tspan x="0" y="0">IDH</tspan></text>
+  <text class="st42" transform="translate(477.46 288.68)"><tspan x="0" y="0">OGDC</tspan></text>
+  <text class="st42" transform="translate(534.01 273.98)"><tspan x="0" y="0">SCS</tspan></text>
+  <text class="st42" transform="translate(490.49 243.12)"><tspan x="0" y="0">SDH</tspan></text>
+  <text class="st42" transform="translate(283.16 237.69)"><tspan x="0" y="0">MDH</tspan></text>
+  <text class="st42" transform="translate(350.07 240.45)"><tspan x="0" y="0">fumarase</tspan></text>
+  <text class="st42" transform="translate(226.82 118.32)"><tspan x="0" y="0">PGI, Mg</tspan></text>
+  <text class="st42" transform="translate(256.16 115.66) scale(.58)"><tspan x="0" y="0">2+</tspan></text>
+  <text class="st42" transform="translate(137.11 135.9)"><tspan x="0" y="0">HK/GK</tspan></text>
+  <text class="st42" transform="translate(107.2 234.16)"><tspan x="0" y="0">PDC</tspan></text>
+  <text class="st42" transform="translate(174.99 234.63)"><tspan x="0" y="0">PC</tspan></text>
+  <text class="st42" transform="translate(246.31 215.71)"><tspan x="0" y="0">PEPCK</tspan></text>
+  <text class="st45" transform="translate(39.16 197.63)"><tspan x="0" y="0">NADH/fatty acids</tspan><tspan x="9.11" y="8">ATP/AcCoA</tspan></text>
+  <text class="st40" transform="translate(178.89 255.34)"><tspan x="0" y="0">AcCoA</tspan></text>
+  <text class="st45" transform="translate(330.65 268.09)"><tspan x="0" y="0">NADH/ATP</tspan></text>
+  <g>
+    <path class="st52" d="M260.55,264.28c.02.23.08.41.18.54.18.23.48.34.92.34.26,0,.49-.06.69-.17s.3-.29.3-.53c0-.18-.08-.32-.24-.41-.1-.06-.3-.12-.6-.2l-.56-.14c-.36-.09-.62-.19-.79-.3-.3-.19-.45-.45-.45-.79,0-.4.14-.72.43-.96s.67-.37,1.15-.37c.63,0,1.08.18,1.36.55.17.23.26.49.25.76h-.66c-.01-.16-.07-.3-.17-.43-.16-.18-.44-.28-.84-.28-.27,0-.47.05-.6.15s-.21.24-.21.4c0,.18.09.33.27.44.1.07.26.12.46.17l.46.11c.5.12.84.24,1.02.36.27.18.41.46.41.85s-.14.69-.42.96-.71.41-1.29.41c-.62,0-1.06-.14-1.32-.42s-.4-.63-.42-1.05h.68Z"/>
+    <path class="st52" d="M264.83,261.41v2.78c0,.21.03.39.1.52.12.25.36.38.7.38.49,0,.82-.22,1-.66.1-.23.14-.56.14-.96v-2.05h.7v4.18h-.66v-.62c-.08.16-.2.29-.33.4-.27.22-.59.33-.98.33-.6,0-1-.2-1.22-.6-.12-.21-.18-.5-.18-.86v-2.84h.72Z"/>
+    <path class="st52" d="M271.34,261.63c.3.23.47.62.53,1.18h-.68c-.04-.26-.14-.47-.29-.64s-.39-.26-.71-.26c-.45,0-.77.22-.96.66-.12.28-.19.63-.19,1.05s.09.77.27,1.06.46.43.84.43c.29,0,.52-.09.69-.27s.29-.42.35-.73h.68c-.08.55-.27.96-.59,1.22s-.71.38-1.2.38c-.55,0-.98-.2-1.31-.6s-.49-.9-.49-1.5c0-.73.18-1.31.54-1.71s.81-.61,1.36-.61c.47,0,.85.11,1.15.34Z"/>
+    <path class="st52" d="M275.34,261.63c.3.23.47.62.53,1.18h-.68c-.04-.26-.14-.47-.29-.64s-.39-.26-.71-.26c-.45,0-.77.22-.96.66-.12.28-.19.63-.19,1.05s.09.77.27,1.06.46.43.84.43c.29,0,.52-.09.69-.27s.29-.42.35-.73h.68c-.08.55-.27.96-.59,1.22s-.71.38-1.2.38c-.55,0-.98-.2-1.31-.6s-.49-.9-.49-1.5c0-.73.18-1.31.54-1.71s.81-.61,1.36-.61c.47,0,.85.11,1.15.34Z"/>
+    <path class="st52" d="M276.58,259.86h.71v.8h-.71v-.8ZM276.58,261.43h.71v4.16h-.71v-4.16Z"/>
+    <path class="st52" d="M278.36,261.41h.67v.59c.2-.25.41-.42.63-.53s.47-.16.74-.16c.59,0,1,.21,1.2.62.11.23.17.55.17.97v2.68h-.71v-2.64c0-.25-.04-.46-.11-.62-.12-.26-.35-.39-.68-.39-.17,0-.3.02-.41.05-.19.06-.36.17-.51.34-.12.14-.19.28-.23.43s-.05.36-.05.63v2.19h-.7v-4.18Z"/>
+    <path class="st52" d="M285.42,261.41h.78c-.1.27-.32.88-.66,1.84-.25.72-.47,1.3-.64,1.76-.41,1.07-.69,1.72-.86,1.95s-.45.35-.86.35c-.1,0-.17,0-.23-.01s-.12-.02-.2-.04v-.64c.12.03.21.05.27.06s.1.01.14.01c.13,0,.23-.02.29-.06s.11-.1.15-.16c.01-.02.06-.13.14-.32s.14-.34.18-.43l-1.55-4.3h.8l1.12,3.41,1.13-3.41Z"/>
+    <path class="st52" d="M286.83,259.86h.7v5.74h-.7v-5.74Z"/>
+    <path class="st52" d="M288.4,263h1.96v.72h-1.96v-.72Z"/>
+    <path class="st52" d="M295.45,260.27c.4.38.62.82.67,1.3h-.76c-.09-.37-.26-.66-.51-.88s-.62-.32-1.08-.32c-.57,0-1.02.2-1.37.6s-.52,1.01-.52,1.83c0,.67.16,1.22.47,1.63s.78.63,1.4.63c.57,0,1.01-.22,1.31-.66.16-.23.28-.54.36-.91h.76c-.07.6-.29,1.11-.67,1.52-.46.49-1.07.74-1.84.74-.67,0-1.23-.2-1.68-.61-.6-.53-.89-1.36-.89-2.47,0-.85.22-1.54.67-2.08.48-.59,1.15-.88,2-.88.73,0,1.29.19,1.69.57Z"/>
+    <path class="st52" d="M300.08,261.83c.37.36.56.89.56,1.59s-.16,1.23-.49,1.67-.84.66-1.53.66c-.58,0-1.03-.19-1.37-.58s-.51-.91-.51-1.57c0-.7.18-1.26.54-1.68s.84-.62,1.44-.62c.54,0,1,.18,1.37.54ZM299.64,264.61c.17-.35.26-.75.26-1.18,0-.39-.06-.71-.19-.95-.2-.39-.54-.58-1.02-.58-.43,0-.74.16-.94.49s-.29.72-.29,1.19.1.82.29,1.11.5.45.93.45c.47,0,.79-.18.96-.53Z"/>
+    <path class="st52" d="M303.24,259.86h.88l2.08,5.74h-.85l-.58-1.72h-2.27l-.62,1.72h-.8l2.16-5.74ZM304.51,263.24l-.87-2.54-.93,2.54h1.8Z"/>
+    <path class="st52" d="M260.22,267.86h.92l2.9,4.65v-4.65h.74v5.74h-.87l-2.94-4.64v4.64h-.74v-5.74Z"/>
+    <path class="st52" d="M267.67,267.86h.88l2.08,5.74h-.85l-.58-1.72h-2.27l-.62,1.72h-.8l2.16-5.74ZM268.95,271.24l-.87-2.54-.93,2.54h1.8Z"/>
+    <path class="st52" d="M271.37,267.86h2.32c.79,0,1.4.28,1.84.84.39.5.58,1.15.58,1.94,0,.61-.11,1.16-.34,1.65-.4.87-1.1,1.3-2.08,1.3h-2.32v-5.74ZM273.54,272.93c.26,0,.48-.03.65-.08.3-.1.55-.3.74-.59.15-.23.26-.53.33-.89.04-.22.06-.42.06-.6,0-.71-.14-1.26-.42-1.66s-.74-.59-1.37-.59h-1.38v4.41h1.39Z"/>
+    <path class="st52" d="M277.13,267.86h.79v2.37h2.98v-2.37h.79v5.74h-.79v-2.68h-2.98v2.68h-.79v-5.74Z"/>
+  </g>
+  <text class="st40" transform="translate(57.67 221.6)"><tspan x="0" y="0">ATP/CoA</tspan><tspan x="6.86" y="8">NAD</tspan></text>
+  <text class="st40" transform="translate(81.43 226.94) scale(.58)"><tspan x="0" y="0">+</tspan></text>
+  <text class="st40" transform="translate(67.25 237.39)"><tspan x="0" y="0">Ca</tspan></text>
+  <text class="st40" transform="translate(77.48 234.73) scale(.58)"><tspan x="0" y="0">2+</tspan></text>
+  <text class="st40" transform="translate(368.94 277.33)"><tspan x="0" y="0">Ca</tspan></text>
+  <text class="st40" transform="translate(379.17 274.66) scale(.58)"><tspan x="0" y="0">2+</tspan></text>
+  <text class="st40" transform="translate(384.49 277.33)"><tspan x="0" y="0">/ADP</tspan></text>
+  <text class="st42" transform="translate(139.96 223.23)"><tspan x="0" y="0">E1,</tspan><tspan x="0" y="8">TPP</tspan></text>
+  <text class="st42" transform="translate(140.09 245.67)"><tspan x="0" y="0">E2,</tspan><tspan x="0" y="8">lipoamide</tspan></text>
+  <text class="st42" transform="translate(86.46 246.82)"><tspan x="0" y="0">E3</tspan></text>
+  <text class="st42" transform="translate(332.53 135.9)"><tspan x="0" y="0">PFK-1</tspan></text>
+  <text class="st42" transform="translate(315.5 116.81)"><tspan x="0" y="0">FBPase-1</tspan></text>
+  <text class="st38" transform="translate(242.09 76.36)"><tspan x="0" y="0">-</tspan></text>
+  <g>
+    <polyline class="st21" points="234.72 77.48 240.03 77.48 240.03 68.95"/>
+    <rect class="st52" x="234.37" y="75.21" width=".7" height="4.55"/>
+  </g>
+  <text class="st38" transform="translate(350.08 144.68)"><tspan x="0" y="0">-</tspan></text>
+  <text class="st38" transform="translate(127.68 18.9)"><tspan x="0" y="0">-</tspan></text>
+  <text class="st46" transform="translate(82.15 16.07)"><tspan x="0" y="0">-</tspan></text>
+  <text class="st46" transform="translate(60.19 82.07)"><tspan x="0" y="0">-</tspan></text>
+  <text class="st46" transform="translate(330.83 144.68)"><tspan x="0" y="0">+</tspan></text>
+  <text class="st46" transform="translate(49.88 95.76)"><tspan x="0" y="0">+</tspan></text>
+  <text class="st46" transform="translate(87.58 95.76)"><tspan x="0" y="0">+</tspan></text>
+  <text class="st38" transform="translate(57.06 71.97)"><tspan x="0" y="0">+</tspan></text>
+  <text class="st38" transform="translate(80.35 26.55)"><tspan x="0" y="0">+</tspan></text>
+  <text class="st46" transform="translate(102.88 77.45)"><tspan x="0" y="0">+</tspan></text>
+  <text class="st42" transform="translate(211.2 36.88)"><tspan x="0" y="0">Lactonase</tspan></text>
+  <text class="st42" transform="translate(211.74 80.56)"><tspan x="0" y="0">G6PD</tspan></text>
+  <text class="st42" transform="translate(286.84 9.14)"><tspan x="0" y="0">6PGDH</tspan></text>
+  <text class="st42" transform="translate(411.71 67.99)"><tspan x="0" y="0">transketolase-TPP</tspan></text>
+  <text class="st42" transform="translate(300.53 56.14)"><tspan x="0" y="0">transketolase-TPP</tspan></text>
+  <text class="st42" transform="translate(419.85 95.43)"><tspan x="0" y="0">transaldolase</tspan></text>
+  <text class="st42" transform="translate(118.03 117.64)"><tspan x="0" y="0">G6Pase(liverER)</tspan></text>
+  <text class="st43" transform="translate(579.1 124.1)"><tspan x="0" y="0">DHAP</tspan></text>
+  <g>
+    <line class="st6" x1="520.82" y1="85.76" x2="569.17" y2="113.16"/>
+    <polygon class="st49" points="515.91 82.97 521.23 89.73 521.19 85.97 524.44 84.07 515.91 82.97"/>
+    <polygon class="st49" points="574.09 115.94 565.56 114.85 568.81 112.95 568.76 109.19 574.09 115.94"/>
+  </g>
+  <g>
+    <path class="st11" d="M483.69,122.49h19.78c3.13,0,5.67-2.54,5.67-5.67v-26.76"/>
+    <polygon class="st60" points="509.14 84.41 512.4 92.37 509.14 90.48 505.89 92.37 509.14 84.41"/>
+  </g>
+  <g>
+    <line class="st21" x1="86.97" y1="36.3" x2="121.69" y2="36.3"/>
+    <polygon class="st52" points="84.15 36.3 88.13 37.93 87.18 36.3 88.13 34.67 84.15 36.3"/>
+  </g>
+  <g>
+    <path class="st21" d="M34.08,56.67v11.55c0,3.13,2.54,5.67,5.67,5.67h22.44"/>
+    <polygon class="st52" points="65.01 73.88 61.03 75.51 61.97 73.88 61.03 72.26 65.01 73.88"/>
+  </g>
+  <g>
+    <line class="st22" x1="209.36" y1="26.84" x2="209.36" y2="40.15"/>
+    <polygon class="st56" points="209.36 21.2 206.1 29.15 209.36 27.27 212.61 29.15 209.36 21.2"/>
+  </g>
+  <g>
+    <line class="st22" x1="360.47" y1="11.98" x2="248.78" y2="11.98"/>
+    <polygon class="st56" points="366.12 11.98 358.16 8.73 360.05 11.98 358.16 15.23 366.12 11.98"/>
+  </g>
+  <g>
+    <path class="st22" d="M447.62,28.89v-11.25c0-3.13-2.54-5.67-5.67-5.67h-41.4"/>
+    <polygon class="st56" points="447.62 34.54 450.87 26.58 447.62 28.47 444.37 26.58 447.62 34.54"/>
+  </g>
+  <g>
+    <line class="st22" x1="382.92" y1="28.89" x2="382.92" y2="19.18"/>
+    <polygon class="st56" points="382.92 34.54 386.17 26.58 382.92 28.47 379.67 26.58 382.92 34.54"/>
+  </g>
+  <g>
+    <line class="st22" x1="209.36" y1="60.02" x2="209.36" y2="114.45"/>
+    <polygon class="st56" points="209.36 54.37 206.1 62.33 209.36 60.44 212.61 62.33 209.36 54.37"/>
+  </g>
+  <g>
+    <line class="st24" x1="133.91" y1="43.56" x2="133.91" y2="56.14"/>
+    <polygon class="st48" points="133.91 40.73 132.28 44.71 133.91 43.77 135.53 44.71 133.91 40.73"/>
+  </g>
+  <g>
+    <line class="st24" x1="197.41" y1="113.24" x2="143.33" y2="65.04"/>
+    <polygon class="st48" points="199.52 115.12 197.63 111.26 197.25 113.1 195.47 113.69 199.52 115.12"/>
+    <polygon class="st48" points="141.22 63.16 145.27 64.59 143.49 65.18 143.11 67.02 141.22 63.16"/>
+  </g>
+  <g>
+    <line class="st17" x1="228.31" y1="122.49" x2="259.2" y2="122.49"/>
+    <polygon class="st53" points="222.66 122.49 230.62 125.75 228.73 122.49 230.62 119.24 222.66 122.49"/>
+    <polygon class="st33" points="264.85 122.49 256.89 125.75 258.78 122.49 256.89 119.24 264.85 122.49"/>
+  </g>
+  <g>
+    <line class="st21" x1="278.77" y1="133.86" x2="278.77" y2="145.55"/>
+    <polygon class="st52" points="278.77 130.33 276.74 135.3 278.77 134.12 280.8 135.3 278.77 130.33"/>
+  </g>
+  <g>
+    <line class="st0" x1="275.74" y1="142.02" x2="275.74" y2="130.33"/>
+    <polygon class="st50" points="275.74 145.55 277.77 140.58 275.74 141.76 273.7 140.58 275.74 145.55"/>
+  </g>
+  <g>
+    <line class="st0" x1="55.58" y1="97.34" x2="43.53" y2="97.34"/>
+    <polygon class="st50" points="59.11 97.34 54.13 95.31 55.31 97.34 54.13 99.37 59.11 97.34"/>
+  </g>
+  <text class="st46" transform="translate(97.94 99.74)"><tspan x="0" y="0">PKA</tspan></text>
+  <g>
+    <line class="st0" x1="92.78" y1="97.34" x2="80.74" y2="97.34"/>
+    <polygon class="st50" points="96.31 97.34 91.34 95.31 92.52 97.34 91.34 99.37 96.31 97.34"/>
+  </g>
+  <g>
+    <path class="st0" d="M99.16,76.05c2.6.52,4.56,2.81,4.56,5.56v12.17"/>
+    <polygon class="st50" points="95.63 75.94 100.47 78.26 99.42 76.16 100.71 74.2 95.63 75.94"/>
+  </g>
+  <g>
+    <line class="st0" x1="100.45" y1="229.61" x2="86.01" y2="226.04"/>
+    <polygon class="st50" points="103.88 230.45 99.54 227.29 100.19 229.54 98.56 231.23 103.88 230.45"/>
+  </g>
+  <g>
+    <line class="st0" x1="183.85" y1="239.85" x2="186.71" y2="247.57"/>
+    <polygon class="st50" points="182.63 236.54 182.45 241.91 183.94 240.1 186.26 240.5 182.63 236.54"/>
+  </g>
+  <g>
+    <line class="st0" x1="362.43" y1="281.31" x2="367.67" y2="277.48"/>
+    <polygon class="st50" points="359.59 283.39 364.8 282.1 362.65 281.15 362.4 278.82 359.59 283.39"/>
+  </g>
+  <text class="st40" transform="translate(512.24 277.33)"><tspan x="0" y="0">Ca</tspan></text>
+  <text class="st40" transform="translate(522.47 274.66) scale(.58)"><tspan x="0" y="0">2+</tspan></text>
+  <g>
+    <line class="st0" x1="505.57" y1="281.31" x2="510.81" y2="277.48"/>
+    <polygon class="st50" points="502.72 283.39 507.94 282.1 505.79 281.15 505.54 278.82 502.72 283.39"/>
+  </g>
+  <g>
+    <line class="st16" x1="192.14" y1="120.66" x2="103.09" y2="120.66"/>
+    <polygon class="st25" points="97.44 120.66 105.4 117.4 103.51 120.66 105.4 123.91 97.44 120.66"/>
+  </g>
+  <g>
+    <line class="st6" x1="100.38" y1="126.02" x2="190.04" y2="126.02"/>
+    <polygon class="st49" points="195.69 126.02 187.73 129.27 189.62 126.02 187.73 122.77 195.69 126.02"/>
+  </g>
+  <g>
+    <line class="st0" x1="80.74" y1="72.8" x2="80.74" y2="83.87"/>
+    <polygon class="st50" points="80.74 69.98 79.11 73.96 80.74 73.01 82.36 73.96 80.74 69.98"/>
+  </g>
+  <g>
+    <path class="st0" d="M87.5,17.23H25.61c-3.13,0-5.67,2.54-5.67,5.67v66.99"/>
+    <rect class="st50" x="87.15" y="14.95" width=".7" height="4.55"/>
+  </g>
+  <g>
+    <path class="st21" d="M85.03,22.36h-45.28c-3.13,0-5.67,2.54-5.67,5.67v16.11"/>
+    <polygon class="st52" points="87.85 22.36 83.87 20.73 84.81 22.36 83.87 23.98 87.85 22.36"/>
+  </g>
+  <g>
+    <path class="st0" d="M64.79,78.11H25.61c-3.13,0-5.67,2.54-5.67,5.67v2.26"/>
+    <rect class="st50" x="64.44" y="75.84" width=".7" height="4.55"/>
+  </g>
+  <text class="st38" transform="translate(89.67 22.46)"><tspan x="0" y="0">PP1</tspan></text>
+  <text class="st46" transform="translate(106.74 22.32)"><tspan x="0" y="0">GSK3</tspan></text>
+  <text class="st38" transform="translate(140.46 22.32)"><tspan x="0" y="0">insulin</tspan></text>
+  <text class="st38" transform="translate(26.9 48.44)"><tspan x="0" y="0">insulin</tspan><tspan x="-2.83" y="6">G6P/Glc</tspan></text>
+  <g>
+    <line class="st0" x1="104.64" y1="17.12" x2="104.64" y2="28.19"/>
+    <polygon class="st50" points="104.64 14.3 103.02 18.28 104.64 17.34 106.27 18.28 104.64 14.3"/>
+  </g>
+  <g>
+    <line class="st21" x1="101.96" y1="25.37" x2="101.96" y2="13.68"/>
+    <polygon class="st52" points="101.96 28.19 103.59 24.21 101.96 25.15 100.33 24.21 101.96 28.19"/>
+  </g>
+  <g>
+    <line class="st21" x1="78.05" y1="81.88" x2="78.05" y2="70.2"/>
+    <polygon class="st52" points="78.05 84.71 79.68 80.73 78.05 81.67 76.43 80.73 78.05 84.71"/>
+  </g>
+  <g>
+    <line class="st16" x1="366.5" y1="120.66" x2="295.44" y2="120.66"/>
+    <polygon class="st25" points="289.79 120.66 297.75 117.4 295.86 120.66 297.75 123.91 289.79 120.66"/>
+  </g>
+  <g>
+    <line class="st6" x1="292.73" y1="126.02" x2="364.4" y2="126.02"/>
+    <polygon class="st49" points="370.05 126.02 362.09 129.27 363.98 126.02 362.09 122.77 370.05 126.02"/>
+  </g>
+  <g>
+    <line class="st16" x1="491.89" y1="183.58" x2="564.98" y2="183.58"/>
+    <polygon class="st25" points="570.63 183.58 562.67 186.83 564.56 183.58 562.67 180.33 570.63 183.58"/>
+  </g>
+  <g>
+    <line class="st3" x1="567.7" y1="178.22" x2="493.98" y2="178.22"/>
+    <polygon class="st62" points="488.33 178.22 496.29 174.96 494.4 178.22 496.29 181.47 488.33 178.22"/>
+  </g>
+  <text class="st37" transform="translate(175.37 165.79)"><tspan x="0" y="0">ATP</tspan></text>
+  <text class="st37" transform="translate(95.71 253.6)"><tspan x="0" y="0">FADH2</tspan></text>
+  <text class="st37" transform="translate(330.78 313.46)"><tspan x="0" y="0">NADH</tspan></text>
+  <g>
+    <path class="st13" d="M471.42,293.56h6.43c3.13,0,5.67,2.54,5.67,5.67v1.09"/>
+    <polygon class="st54" points="483.51 305.96 480.26 298 483.51 299.89 486.76 298 483.51 305.96"/>
+  </g>
+  <text class="st37" transform="translate(472.18 313.46)"><tspan x="0" y="0">NADH</tspan></text>
+  <text class="st37" transform="translate(567.78 265.58)"><tspan x="0" y="0">GTP</tspan></text>
+  <text class="st37" transform="translate(360.74 313.46)"><tspan x="0" y="0">CO</tspan></text>
+  <text class="st37" transform="translate(372.74 316.13) scale(.58)"><tspan x="0" y="0">2</tspan></text>
+  <g>
+    <path class="st13" d="M487.42,293.56h16.26c3.13,0,5.67,2.54,5.67,5.67v1.09"/>
+    <polygon class="st54" points="509.35 305.96 506.1 298 509.35 299.89 512.61 298 509.35 305.96"/>
+  </g>
+  <g>
+    <path class="st13" d="M491.66,245.16h-16.26c-3.13,0-5.67-2.54-5.67-5.67v-1.09"/>
+    <polygon class="st54" points="469.73 232.75 472.98 240.71 469.73 238.82 466.48 240.71 469.73 232.75"/>
+  </g>
+  <path class="st4" d="M503.19,210.19v4.68c0,3.13-2.54,5.67-5.67,5.67h-13.52"/>
+  <line class="st13" x1="269.99" y1="293.56" x2="242.19" y2="293.56"/>
+  <g>
+    <path class="st13" d="M554.11,278.57v-9.89c0-3.13,2.54-5.67,5.67-5.67h1.09"/>
+    <polygon class="st54" points="566.52 263.02 558.56 266.27 560.45 263.02 558.56 259.77 566.52 263.02"/>
+  </g>
+  <text class="st37" transform="translate(502.06 313.46)"><tspan x="0" y="0">CO</tspan></text>
+  <text class="st37" transform="translate(514.06 316.13) scale(.58)"><tspan x="0" y="0">2</tspan></text>
+  <g>
+    <path class="st22" d="M272.29,11.98h6.43c3.13,0,5.67,2.54,5.67,5.67v1.09"/>
+    <polygon class="st56" points="284.39 24.38 281.14 16.42 284.39 18.31 287.64 16.42 284.39 24.38"/>
+  </g>
+  <text class="st37" transform="translate(270.39 31.88)"><tspan x="0" y="0">NADPH</tspan></text>
+  <g>
+    <path class="st22" d="M302.73,11.98h16.26c3.13,0,5.67,2.54,5.67,5.67v1.09"/>
+    <polygon class="st56" points="324.66 24.38 321.41 16.42 324.66 18.31 327.91 16.42 324.66 24.38"/>
+  </g>
+  <text class="st37" transform="translate(317.37 31.88)"><tspan x="0" y="0">CO</tspan></text>
+  <text class="st37" transform="translate(329.37 34.54) scale(.58)"><tspan x="0" y="0">2</tspan></text>
+  <text class="st37" transform="translate(457.54 230.88)"><tspan x="0" y="0">FADH</tspan></text>
+  <text class="st37" transform="translate(479.32 233.54) scale(.58)"><tspan x="0" y="0">2</tspan></text>
+  <g>
+    <path class="st13" d="M286.7,245.16h-16.26c-3.13,0-5.67-2.54-5.67-5.67v-1.09"/>
+    <polygon class="st54" points="264.77 232.75 268.02 240.71 264.77 238.82 261.52 240.71 264.77 232.75"/>
+  </g>
+  <text class="st37" transform="translate(253.44 230.88)"><tspan x="0" y="0">NADH</tspan></text>
+  <text class="st37" transform="translate(59.37 253.6)"><tspan x="0" y="0">NADH</tspan></text>
+  <text class="st37" transform="translate(223.15 67.83)"><tspan x="0" y="0">NADPH</tspan></text>
+  <text class="st37" transform="translate(97.46 142.18)"><tspan x="0" y="0">ATP</tspan></text>
+  <g>
+    <path class="st3" d="M204.33,180.47h-16.26c-3.13,0-5.67-2.54-5.67-5.67v-2.14"/>
+    <polygon class="st62" points="182.4 167.01 185.66 174.96 182.4 173.08 179.15 174.96 182.4 167.01"/>
+  </g>
+  <text class="st37" transform="translate(497.91 163.54)"><tspan x="0" y="0">ATP</tspan></text>
+  <g>
+    <path class="st3" d="M526.88,178.22h-16.26c-3.13,0-5.67-2.54-5.67-5.67v-2.14"/>
+    <polygon class="st62" points="504.95 164.76 508.2 172.72 504.95 170.83 501.69 172.72 504.95 164.76"/>
+  </g>
+  <g>
+    <path class="st3" d="M596.49,140.62v16.26c0,3.13-2.54,5.67-5.67,5.67h-2.14"/>
+    <polygon class="st62" points="583.03 162.55 590.99 159.3 589.1 162.55 590.99 165.8 583.03 162.55"/>
+  </g>
+  <g>
+    <path class="st19" d="M136.44,240.53v4.76c0,3.13-2.54,5.67-5.67,5.67h-2.14"/>
+    <polygon class="st47" points="122.98 250.96 130.94 247.7 129.05 250.96 130.94 254.21 122.98 250.96"/>
+  </g>
+  <g>
+    <path class="st16" d="M596.49,159.76v-16.26c0-3.13,2.54-5.67,5.67-5.67h2.14"/>
+    <polygon class="st25" points="609.95 137.83 601.99 141.08 603.88 137.83 601.99 134.58 609.95 137.83"/>
+  </g>
+  <path class="st6" d="M173.67,126.02h-62.76c-3.13,0-5.67,2.54-5.67,5.67v3.62"/>
+  <text class="st37" transform="translate(312.09 142.18)"><tspan x="0" y="0">ATP</tspan></text>
+  <path class="st6" d="M341.79,126.02h-16.26c-3.13,0-5.67,2.54-5.67,5.67v3.62"/>
+  <g>
+    <line class="st21" x1="348.13" y1="154.55" x2="348.13" y2="138.29"/>
+    <rect class="st52" x="345.85" y="137.94" width="4.55" height=".7"/>
+  </g>
+  <text class="st38" transform="translate(205.47 168.41)"><tspan x="0" y="0">-</tspan></text>
+  <g>
+    <line class="st21" x1="191.33" y1="163.46" x2="209.11" y2="171.15"/>
+    <rect class="st52" x="206.84" y="170.8" width="4.55" height=".7" transform="translate(-30.97 295.15) rotate(-66.62)"/>
+  </g>
+  <g>
+    <line class="st21" x1="139.45" y1="20.06" x2="124.22" y2="20.06"/>
+    <rect class="st52" x="123.87" y="17.79" width=".7" height="4.55"/>
+  </g>
+  <g>
+    <line class="st21" x1="94.16" y1="202.5" x2="106.52" y2="225.73"/>
+    <rect class="st52" x="104.24" y="225.38" width="4.55" height=".7" transform="translate(-93.52 76.44) rotate(-28)"/>
+  </g>
+  <g>
+    <line class="st21" x1="233.76" y1="285.08" x2="233.76" y2="273.09"/>
+    <rect class="st52" x="231.49" y="272.74" width="4.55" height=".7"/>
+  </g>
+  <line class="st0" x1="336.76" y1="154.55" x2="336.76" y2="144.22"/>
+  <g>
+    <path class="st0" d="M290.64,150.67h43.28c1.57,0,2.83-1.27,2.83-2.83v-7.24"/>
+    <polygon class="st50" points="336.76 137.77 338.38 141.75 336.76 140.81 335.13 141.75 336.76 137.77"/>
+  </g>
+  <g>
+    <path class="st16" d="M332.53,120.66h-16.26c-3.12,0-5.65-2.52-5.67-5.64"/>
+    <polygon class="st25" points="310.6 109.37 313.94 117.29 310.67 115.44 307.44 117.36 310.6 109.37"/>
+  </g>
+  <line class="st13" x1="224.59" y1="271.52" x2="224.59" y2="250.1"/>
+  <g>
+    <line class="st13" x1="554.11" y1="285.08" x2="554.11" y2="255.75"/>
+    <polygon class="st54" points="554.11 250.1 557.37 258.06 554.11 256.17 550.86 258.06 554.11 250.1"/>
+  </g>
+  <g>
+    <path class="st4" d="M579.43,245.16h14.22c3.13,0,5.67,2.54,5.67,5.67l.07,92.33c0,3.13-2.54,5.67-5.67,5.67h-286.83c-3.13,0-5.67-2.54-5.67-5.67v-43.4"/>
+    <polygon class="st57" points="573.78 245.16 581.74 248.41 579.85 245.16 581.74 241.91 573.78 245.16"/>
+  </g>
+  <g>
+    <path class="st4" d="M589.51,220.54h4.17c3.13,0,5.67,2.54,5.67,5.67v44.57"/>
+    <polygon class="st57" points="583.86 220.54 591.82 223.79 589.93 220.54 591.82 217.29 583.86 220.54"/>
+  </g>
+  <g>
+    <path class="st4" d="M323.71,231.74v-5.53c0-3.13,2.53-5.67,5.67-5.67h194.91"/>
+    <polygon class="st57" points="323.71 237.39 326.96 229.43 323.71 231.32 320.46 229.43 323.71 237.39"/>
+  </g>
+  <g>
+    <line class="st13" x1="268.07" y1="293.56" x2="242.19" y2="293.56"/>
+    <polygon class="st54" points="273.72 293.56 265.76 290.31 267.65 293.56 265.76 296.81 273.72 293.56"/>
+  </g>
+  <g>
+    <line class="st13" x1="347.21" y1="293.56" x2="326.72" y2="293.56"/>
+    <polygon class="st54" points="352.86 293.56 344.9 290.31 346.79 293.56 344.9 296.81 352.86 293.56"/>
+  </g>
+  <g>
+    <line class="st13" x1="375.79" y1="293.56" x2="352.42" y2="293.56"/>
+    <polygon class="st54" points="381.44 293.56 373.48 290.31 375.37 293.56 373.48 296.81 381.44 293.56"/>
+  </g>
+  <g>
+    <line class="st13" x1="513.18" y1="293.56" x2="465.94" y2="293.56"/>
+    <polygon class="st54" points="518.83 293.56 510.87 290.31 512.76 293.56 510.87 296.81 518.83 293.56"/>
+  </g>
+  <text class="st43" transform="translate(383.03 296.88)"><tspan x="0" y="0">α-ketoglutarate</tspan></text>
+  <text class="st44" transform="translate(414.35 323.35)"><tspan x="0" y="0">Glu</tspan></text>
+  <text class="st44" transform="translate(199.09 217.49)"><tspan x="0" y="0">Asp</tspan></text>
+  <text class="st41" transform="translate(391.73 231.13)"><tspan x="0" y="0">urea cycle</tspan></text>
+  <text class="st41" transform="translate(191.25 198.64)"><tspan x="0" y="0">urea cycle</tspan></text>
+  <text class="st43" transform="translate(519.97 296.88)"><tspan x="0" y="0">succinyl-CoA</tspan></text>
+  <text class="st43" transform="translate(305.45 248.47)"><tspan x="0" y="0">matate</tspan></text>
+  <g>
+    <line class="st13" x1="247.84" y1="245.16" x2="304.22" y2="245.16"/>
+    <polygon class="st54" points="242.19 245.16 250.15 248.41 248.26 245.16 250.15 241.91 242.19 245.16"/>
+  </g>
+  <g>
+    <line class="st13" x1="382.34" y1="245.16" x2="350.2" y2="245.16"/>
+    <polygon class="st54" points="344.55 245.16 352.51 241.9 350.62 245.16 352.51 248.41 344.55 245.16"/>
+  </g>
+  <g>
+    <line class="st13" x1="518.83" y1="245.16" x2="440.82" y2="245.16"/>
+    <polygon class="st54" points="435.17 245.16 443.13 241.9 441.24 245.16 443.13 248.41 435.17 245.16"/>
+  </g>
+  <text class="st43" transform="translate(386.62 248.47)"><tspan x="0" y="0">fumarate</tspan></text>
+  <text class="st43" transform="translate(520.75 248.47)"><tspan x="0" y="0">succinate</tspan></text>
+  <text class="st43" transform="translate(527.43 223.86)"><tspan x="0" y="0">glyoxylate</tspan></text>
+  <g>
+    <path class="st13" d="M224.59,279.43v-6.83c0-3.13-2.54-5.67-5.67-5.67h-52.67"/>
+    <polygon class="st54" points="224.59 285.08 227.84 277.12 224.59 279.01 221.34 277.12 224.59 285.08"/>
+  </g>
+  <g>
+    <path class="st3" d="M244.15,180.47h-65.63c-2.78,0-5.47,1.02-7.55,2.88l-16.76,14.95"/>
+    <polygon class="st62" points="149.99 202.05 153.77 194.32 154.52 198.01 158.1 199.18 149.99 202.05"/>
+  </g>
+  <g>
+    <line class="st12" x1="387.99" y1="180.9" x2="441.06" y2="180.9"/>
+    <polygon class="st34" points="382.34 180.9 390.3 184.15 388.41 180.9 390.3 177.65 382.34 180.9"/>
+    <polygon class="st61" points="446.7 180.9 438.74 184.15 440.63 180.9 438.74 177.65 446.7 180.9"/>
+  </g>
+  <g>
+    <line class="st23" x1="596.49" y1="167.36" x2="596.49" y2="134.24"/>
+    <polygon class="st58" points="596.49 173.01 599.75 165.05 596.49 166.94 593.24 165.05 596.49 173.01"/>
+    <polygon class="st32" points="596.49 128.59 599.75 136.55 596.49 134.66 593.24 136.55 596.49 128.59"/>
+  </g>
+  <g>
+    <line class="st19" x1="136.44" y1="231.74" x2="136.44" y2="214.7"/>
+    <polygon class="st47" points="136.44 237.39 139.7 229.43 136.44 231.32 133.19 229.43 136.44 237.39"/>
+  </g>
+  <g>
+    <line class="st19" x1="136.44" y1="254.44" x2="136.44" y2="237.39"/>
+    <polygon class="st47" points="136.44 260.09 139.7 252.13 136.44 254.02 133.19 252.13 136.44 260.09"/>
+  </g>
+  <g>
+    <line class="st20" x1="136.44" y1="297.41" x2="136.44" y2="275.93"/>
+    <polygon class="st55" points="136.44 300.24 138.07 296.26 136.44 297.2 134.82 296.26 136.44 300.24"/>
+  </g>
+  <g>
+    <line class="st20" x1="40.84" y1="297.41" x2="40.84" y2="275.93"/>
+    <polygon class="st55" points="40.84 300.24 42.46 296.26 40.84 297.2 39.21 296.26 40.84 300.24"/>
+  </g>
+  <g>
+    <line class="st1" x1="136.44" y1="337.56" x2="136.44" y2="316.09"/>
+    <polygon class="st55" points="136.44 340.39 138.07 336.41 136.44 337.35 134.82 336.41 136.44 340.39"/>
+  </g>
+  <g>
+    <line class="st20" x1="423.69" y1="302.59" x2="423.69" y2="310.64"/>
+    <polygon class="st55" points="423.69 299.76 422.06 303.74 423.69 302.8 425.32 303.74 423.69 299.76"/>
+    <polygon class="st55" points="423.69 313.46 422.06 309.48 423.69 310.43 425.32 309.48 423.69 313.46"/>
+  </g>
+  <g>
+    <line class="st20" x1="210.51" y1="222.8" x2="214.95" y2="233.5"/>
+    <polygon class="st55" points="209.43 220.19 209.46 224.49 210.6 222.99 212.46 223.24 209.43 220.19"/>
+    <polygon class="st55" points="216.04 236.11 213.01 233.06 214.87 233.31 216.01 231.81 216.04 236.11"/>
+  </g>
+  <g>
+    <line class="st20" x1="409.96" y1="232.6" x2="409.96" y2="236.92"/>
+    <polygon class="st55" points="409.96 239.74 408.34 235.76 409.96 236.71 411.59 235.76 409.96 239.74"/>
+  </g>
+  <g>
+    <line class="st20" x1="209.48" y1="208.89" x2="209.48" y2="202.95"/>
+    <polygon class="st55" points="209.48 200.12 211.11 204.1 209.48 203.16 207.86 204.1 209.48 200.12"/>
+  </g>
+  <g>
+    <line class="st20" x1="75.7" y1="266.93" x2="101.69" y2="266.93"/>
+    <polygon class="st55" points="72.88 266.93 76.86 268.56 75.91 266.93 76.86 265.31 72.88 266.93"/>
+  </g>
+  <g>
+    <line class="st19" x1="88.62" y1="250.96" x2="94.77" y2="250.96"/>
+    <polygon class="st47" points="82.97 250.96 90.93 254.21 89.04 250.96 90.93 247.7 82.97 250.96"/>
+  </g>
+  <g>
+    <line class="st9" x1="282.35" y1="180.9" x2="333.68" y2="180.9"/>
+    <polygon class="st63" points="276.7 180.9 284.66 184.15 282.77 180.9 284.66 177.65 276.7 180.9"/>
+    <polygon class="st59" points="339.33 180.9 331.37 184.15 333.26 180.9 331.37 177.65 339.33 180.9"/>
+  </g>
+  <g>
+    <line class="st14" x1="416.82" y1="122.49" x2="568.44" y2="122.49"/>
+    <polygon class="st35" points="411.17 122.49 419.13 125.75 417.24 122.49 419.13 119.24 411.17 122.49"/>
+    <polygon class="st51" points="574.09 122.49 566.13 125.75 568.02 122.49 566.13 119.24 574.09 122.49"/>
+  </g>
+  <text class="st36" transform="translate(307.56 108.25)"><tspan x="0" y="0">Pi</tspan></text>
+  <path class="st22" d="M447.62,47.43v5.89c0,3.13-2.54,5.67-5.67,5.67h-53.94c-3.13,0-5.67-2.54-5.67-5.67v-5.81"/>
+  <g>
+    <path class="st22" d="M382.34,66.09v-1.43c0-3.13,2.54-5.67,5.67-5.67h111.27c3.13,0,5.67,2.54,5.67,5.67v1.36"/>
+    <polygon class="st56" points="382.34 71.74 385.59 63.78 382.34 65.67 379.09 63.78 382.34 71.74"/>
+    <polygon class="st56" points="504.95 71.67 501.69 63.71 504.95 65.59 508.2 63.71 504.95 71.67"/>
+  </g>
+  <g>
+    <path class="st22" d="M377.88,47.43v5.29c0,3.13-2.54,5.67-5.67,5.67h-77.56c-2.7,0-4.97-1.89-5.53-4.43"/>
+    <polygon class="st56" points="288.99 48.32 292.68 56.09 289.32 54.38 286.18 56.45 288.99 48.32"/>
+  </g>
+  <g>
+    <path class="st22" d="M273.51,108.81v-44.74c0-3.13,2.54-5.67,5.67-5.67h31.16c3.13,0,5.67,2.54,5.67,5.67v7.01"/>
+    <polygon class="st56" points="273.51 114.45 276.76 106.49 273.51 108.38 270.26 106.49 273.51 114.45"/>
+  </g>
+  <path class="st22" d="M501.01,84.38v8.22c0,3.13-2.54,5.67-5.67,5.67h-107.33c-3.13,0-5.67-2.54-5.67-5.67v-8.15"/>
+  <g>
+    <path class="st22" d="M319.02,98.27c-3.13,0-5.67-2.54-5.67-5.67v-2.54"/>
+    <polygon class="st56" points="313.35 84.41 316.6 92.37 313.35 90.48 310.1 92.37 313.35 84.41"/>
+  </g>
+  <g>
+    <path class="st22" d="M281.55,108.87v-4.93c0-3.13,2.54-5.67,5.67-5.67h108.05"/>
+    <polygon class="st56" points="281.55 114.51 284.81 106.55 281.55 108.44 278.3 106.55 281.55 114.51"/>
+  </g>
+  <g>
+    <line class="st20" x1="462.37" y1="41.86" x2="477.36" y2="41.86"/>
+    <polygon class="st55" points="480.18 41.86 476.2 43.49 477.15 41.86 476.2 40.24 480.18 41.86"/>
+  </g>
+  <g>
+    <line class="st1" x1="533.11" y1="41.86" x2="563.25" y2="41.86"/>
+    <polygon class="st55" points="566.08 41.86 562.1 43.49 563.04 41.86 562.1 40.24 566.08 41.86"/>
+  </g>
+  <g>
+    <line class="st1" x1="596.49" y1="112.57" x2="596.49" y2="93.66"/>
+    <polygon class="st55" points="596.49 90.84 598.12 94.81 596.49 93.87 594.87 94.81 596.49 90.84"/>
+  </g>
+  <g>
+    <line class="st1" x1="519.39" y1="77.94" x2="554.53" y2="77.94"/>
+    <polygon class="st55" points="557.35 77.94 553.37 79.56 554.32 77.94 553.37 76.31 557.35 77.94"/>
+  </g>
+  <g>
+    <line class="st21" x1="257.96" y1="268.25" x2="242.88" y2="268.25"/>
+    <rect class="st52" x="242.53" y="265.97" width=".7" height="4.55"/>
+  </g>
+  <g>
+    <line class="st21" x1="350.88" y1="270.09" x2="350.88" y2="279.39"/>
+    <rect class="st52" x="348.6" y="279.04" width="4.55" height=".7"/>
+  </g>
+  <text class="st45" transform="translate(452.81 268.09)"><tspan x="0" y="0">NADH/succinyl-CoA</tspan></text>
+  <g>
+    <line class="st21" x1="488.6" y1="270.09" x2="488.6" y2="279.39"/>
+    <rect class="st52" x="486.32" y="279.04" width="4.55" height=".7"/>
+  </g>
+  <g>
+    <line class="st16" x1="159.08" y1="212.25" x2="205.07" y2="238.29"/>
+    <polygon class="st25" points="209.99 241.08 201.46 239.99 204.7 238.09 204.66 234.33 209.99 241.08"/>
+  </g>
+  <g>
+    <line class="st16" x1="227.79" y1="237.54" x2="255.05" y2="192.06"/>
+    <polygon class="st25" points="257.96 187.21 256.65 195.71 254.84 192.42 251.08 192.37 257.96 187.21"/>
+  </g>
+  <g>
+    <path class="st0" d="M66.62,40.73v14.68c0,3.13,2.54,5.67,5.67,5.67h49.16"/>
+    <polygon class="st50" points="124.28 61.08 120.3 62.71 121.24 61.08 120.3 59.46 124.28 61.08"/>
+  </g>
+  <g>
+    <line class="st2" x1="245.01" y1="250.07" x2="246.01" y2="250.07"/>
+    <line class="st7" x1="247.99" y1="250.07" x2="302.23" y2="250.07"/>
+    <line class="st2" x1="303.22" y1="250.07" x2="304.22" y2="250.07"/>
+    <polygon class="st57" points="242.19 250.07 246.17 251.7 245.23 250.07 246.17 248.44 242.19 250.07"/>
+  </g>
+  <g>
+    <line class="st2" x1="347.37" y1="250.07" x2="348.37" y2="250.07"/>
+    <line class="st18" x1="350.31" y1="250.07" x2="380.37" y2="250.07"/>
+    <line class="st2" x1="381.34" y1="250.07" x2="382.34" y2="250.07"/>
+    <polygon class="st57" points="344.55 250.07 348.53 251.7 347.58 250.07 348.53 248.44 344.55 250.07"/>
+  </g>
+  <g>
+    <line class="st2" x1="437.99" y1="250.07" x2="438.99" y2="250.07"/>
+    <line class="st5" x1="441.01" y1="250.07" x2="516.82" y2="250.07"/>
+    <line class="st2" x1="517.83" y1="250.07" x2="518.83" y2="250.07"/>
+    <polygon class="st57" points="435.17 250.07 439.15 251.7 438.2 250.07 439.15 248.44 435.17 250.07"/>
+  </g>
+</svg>
