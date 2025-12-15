@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536.02 147.52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b78fc0;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #302927;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-7 {
+        font-size: 12px;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill: #302927;
+      }
+
+      .cls-7, .cls-9 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-9 {
+        font-size: 6px;
+      }
+
+      .cls-4 {
+        fill: #97b577;
+      }
+
+      .cls-5 {
+        fill: #d8ecf5;
+      }
+    </style>
+  </defs>
+  <text class="cls-7" transform="translate(11.66 18.8)"><tspan x="0" y="0">cassette exon</tspan></text>
+  <text class="cls-7" transform="translate(0 72.04)"><tspan x="0" y="0">mutually exclusive</tspan><tspan x="32.67" y="12">exons</tspan></text>
+  <text class="cls-7" transform="translate(7.33 127.03)"><tspan x="0" y="0">intron retension</tspan></text>
+  <line class="cls-2" x1="107.89" y1="15.9" x2="252.26" y2="15.9"/>
+  <line class="cls-2" x1="107.89" y1="69.96" x2="252.26" y2="69.96"/>
+  <line class="cls-2" x1="107.89" y1="124.02" x2="252.26" y2="124.02"/>
+  <rect class="cls-5" x="132.72" y="10.77" width="16.19" height="10.27"/>
+  <rect class="cls-4" x="163.89" y="10.77" width="16.19" height="10.27"/>
+  <rect class="cls-5" x="195.37" y="10.72" width="16.19" height="10.27"/>
+  <rect class="cls-5" x="132.72" y="118.98" width="16.19" height="10.27"/>
+  <rect class="cls-4" x="148.91" y="118.98" width="46.42" height="5.13"/>
+  <rect class="cls-5" x="195.37" y="118.93" width="16.19" height="10.27"/>
+  <rect class="cls-5" x="132.72" y="64.85" width="16.19" height="10.27"/>
+  <rect class="cls-4" x="163.89" y="64.85" width="16.19" height="10.27"/>
+  <rect class="cls-1" x="195.37" y="64.8" width="16.19" height="10.27"/>
+  <rect class="cls-5" x="226.81" y="64.8" width="16.19" height="10.27"/>
+  <polyline class="cls-3" points="163.89 10.77 156.4 .83 148.91 10.77"/>
+  <polyline class="cls-3" points="163.89 64.85 156.4 54.91 148.91 64.85"/>
+  <polyline class="cls-3" points="226.81 64.8 203.6 54.91 180.39 64.85"/>
+  <polyline class="cls-3" points="211.83 75.12 219.32 85.05 226.81 75.12"/>
+  <polyline class="cls-3" points="148.91 75.16 172.12 85.05 195.33 75.12"/>
+  <polyline class="cls-3" points="195.37 20.99 172.14 30.27 148.91 21.03"/>
+  <polyline class="cls-3" points="195.37 129.2 172.14 138.48 148.91 129.24"/>
+  <polyline class="cls-3" points="195.05 10.77 187.56 .83 180.07 10.77"/>
+  <text class="cls-7" transform="translate(294.78 12.52)"><tspan x="0" y="0">alternative </tspan><tspan x="-3.11" y="12">5</tspan><tspan class="cls-6" x="3.56" y="12">’</tspan><tspan x="5.79" y="12" xml:space="preserve"> splice site</tspan></text>
+  <text class="cls-7" transform="translate(294.78 89.16)"><tspan x="0" y="0">alternative </tspan><tspan x="5.34" y="12">promoter</tspan></text>
+  <text class="cls-7" transform="translate(273.1 127.03)"><tspan x="0" y="0">alternative splicing </tspan><tspan x="-2.35" y="12">and polyadenylation</tspan></text>
+  <text class="cls-9" transform="translate(450.64 123.1)"><tspan x="0" y="0">AAAA...</tspan></text>
+  <text class="cls-9" transform="translate(515.01 143.88)"><tspan x="0" y="0">AAAA...</tspan></text>
+  <line class="cls-2" x1="383.33" y1="15.9" x2="527.7" y2="15.9"/>
+  <line class="cls-2" x1="383.33" y1="91.19" x2="527.7" y2="91.19"/>
+  <rect class="cls-5" x="408.17" y="10.77" width="16.19" height="10.27"/>
+  <rect class="cls-4" x="464.07" y="10.77" width="6.42" height="10.27"/>
+  <rect class="cls-5" x="470.81" y="10.72" width="16.19" height="10.27"/>
+  <rect class="cls-5" x="470.95" y="86.08" width="16.19" height="10.27"/>
+  <rect class="cls-4" x="408.17" y="86.08" width="16.19" height="10.27"/>
+  <rect class="cls-1" x="439.47" y="86.03" width="16.19" height="10.27"/>
+  <rect class="cls-5" x="502.26" y="86.03" width="16.19" height="10.27"/>
+  <polyline class="cls-3" points="470.49 10.77 447.42 .83 424.35 10.77"/>
+  <polyline class="cls-3" points="502.26 86.08 494.77 76.14 487.28 86.08"/>
+  <polyline class="cls-3" points="470.95 86.03 447.58 76.14 424.35 86.08"/>
+  <g>
+    <polyline class="cls-3" points="398.88 81.11 393.61 81.11 393.61 91.21"/>
+    <polygon class="cls-8" points="401.71 81.11 397.73 79.48 398.67 81.11 397.73 82.74 401.71 81.11"/>
+  </g>
+  <g>
+    <polyline class="cls-3" points="436.05 101.58 430.78 101.58 430.78 91.48"/>
+    <polygon class="cls-8" points="438.87 101.58 434.89 99.96 435.83 101.58 434.89 103.21 438.87 101.58"/>
+  </g>
+  <polyline class="cls-3" points="487.28 96.34 494.77 106.28 502.26 96.34"/>
+  <polyline class="cls-3" points="455.66 96.39 463.33 106.28 470.77 96.34"/>
+  <line class="cls-2" x1="527.7" y1="131.64" x2="383.33" y2="131.64"/>
+  <rect class="cls-4" x="423.89" y="126.48" width="16.19" height="10.27" transform="translate(863.98 263.23) rotate(-180)"/>
+  <rect class="cls-1" x="486.68" y="126.48" width="16.19" height="10.27" transform="translate(989.55 263.23) rotate(-180)"/>
+  <rect class="cls-1" x="455.38" y="126.53" width="16.19" height="10.27" transform="translate(926.94 263.32) rotate(-180)"/>
+  <rect class="cls-5" x="392.59" y="126.53" width="16.19" height="10.27" transform="translate(801.37 263.32) rotate(-180)"/>
+  <polyline class="cls-3" points="408.78 136.75 431.99 146.69 455.38 136.75"/>
+  <polyline class="cls-3" points="471.56 136.75 479.05 146.69 486.54 136.75"/>
+  <polyline class="cls-3" points="514.42 141.72 509.41 141.72 502.87 136.75"/>
+  <polyline class="cls-3" points="450.3 121.24 445.3 121.24 440.08 126.48"/>
+  <polyline class="cls-3" points="423.76 126.48 416.27 116.55 408.78 126.48"/>
+  <polyline class="cls-3" points="464.07 21.03 447.58 30.27 424.35 21.03"/>
+  <text class="cls-7" transform="translate(294.78 48.12)"><tspan x="0" y="0">alternative </tspan><tspan x="-3.11" y="12">3</tspan><tspan class="cls-6" x="3.56" y="12">’</tspan><tspan x="5.79" y="12" xml:space="preserve"> splice site</tspan></text>
+  <line class="cls-2" x1="383.33" y1="51.5" x2="527.7" y2="51.5"/>
+  <rect class="cls-5" x="408.17" y="46.37" width="16.19" height="10.27"/>
+  <rect class="cls-1" x="424.35" y="46.37" width="6.42" height="10.27"/>
+  <rect class="cls-5" x="470.81" y="46.32" width="16.19" height="10.27"/>
+  <polyline class="cls-3" points="470.49 46.37 447.42 36.43 430.78 46.37"/>
+  <polyline class="cls-3" points="470.81 56.64 447.58 65.88 424.35 56.64"/>
+</svg>
